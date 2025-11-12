@@ -1,0 +1,44 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "7df3f6a3-c3d0-4645-951b-f7875e348320",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1762475466512"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.h4sfdv2.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://bluman2:lotte8492@cluster0.h4sfdv2.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "ccb1c946-defb-46c9-9f85-1baff6dc7955",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1762233020638"
+        }
+      },
+      "favorite": {
+        "name": ""
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
