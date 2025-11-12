@@ -16,3 +16,7 @@ venv/
 # --- OS 자동 생성 파일 ---
 .DS_Store
 Thumbs.db
+
+# --- Data files ---
+*.xlsx
+*.xls
