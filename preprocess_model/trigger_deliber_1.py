@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-trigger_deliber.py
+trigger_deliber1.py
 -----------------
 1) 회의 전체 JSON에서 bill_pool(의사일정 항 전체) 생성
 2) 소위원장 발언만 LLM에 던져서:
@@ -14,9 +14,9 @@ trigger_deliber.py
 5) 결과를 원래 JSON 구조에 필드만 추가해서 저장
 
 입출력
-- 입력:  ./out/speeches_meeting_<MEETING_ID>.json
-- 출력:  ./division_out/speeches_triggerdeliber_<MEETING_ID>.json
-- 로그:  ./logs/trigger_deliber_<MEETING_ID>.log
+- 입력:  ./meeting_number_filltered/speeches_meeting_<MEETING_ID>.json
+- 출력:  ./trigger_deliber_output/speeches_triggerdeliber_<MEETING_ID>.json
+- 로그:  ./trigger_deliber_output/trigger_deliber_<MEETING_ID>.log
 """
 
 import os
@@ -30,10 +30,10 @@ from datetime import datetime
 # =========================================
 OLLAMA_API = "http://localhost:11434/api/generate"
 MODEL = "gpt-oss:120b-cloud"
-TEMPERATURE = 0.1
+TEMPERATURE = 0.05
 TIMEOUT = 300
 
-MEETING_ID = 50825  # 회의 번호만 바꿔가며 사용
+MEETING_ID = 52737  # 회의 번호만 바꿔가며 사용
 
 
 # =========================================
@@ -623,12 +623,17 @@ def apply_segments_to_speeches(speeches, segments):
 def main():
     meeting_id = MEETING_ID
 
-    input_file = f"./out/speeches_meeting_{meeting_id}.json"
-    output_file = f"./division_out/speeches_triggerdeliber_{meeting_id}.json"
-    log_file = f"./logs/trigger_deliber_{meeting_id}.log"
+    # ✅ 항상 현재 파일 위치(preprocess_model) 기준으로 경로 계산
+    base_dir = os.path.dirname(os.path.abspath(__file__))
 
-    os.makedirs("./logs", exist_ok=True)
-    os.makedirs("./division_out", exist_ok=True)
+    input_file = os.path.join(base_dir, "meeting_number_filltered", f"speeches_meeting_{meeting_id}.json")
+    output_dir = os.path.join(base_dir, "trigger_deliber_output")
+    os.makedirs(output_dir, exist_ok=True)
+
+    output_file = os.path.join(output_dir, f"speeches_triggerdeliber_{meeting_id}.json")
+    log_file = os.path.join(output_dir, f"trigger_deliber_{meeting_id}.log")
+
+    os.makedirs("./trigger_deliber_output", exist_ok=True)
 
     with open(input_file, "r", encoding="utf-8") as f:
         speeches = json.load(f)
