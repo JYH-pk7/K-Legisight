@@ -1,0 +1,422 @@
+[
+  {
+    "meeting_id": 50132,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 381,
+    "chasu": 1,
+    "meeting_date": "2020년8월26일(수)"
+  },
+  {
+    "meeting_id": 50181,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월10일(목)"
+  },
+  {
+    "meeting_id": 50391,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년11월9일(월)"
+  },
+  {
+    "meeting_id": 50397,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월10일(화)"
+  },
+  {
+    "meeting_id": 50404,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월11일(수)"
+  },
+  {
+    "meeting_id": 50585,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월30일(월)"
+  },
+  {
+    "meeting_id": 50597,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년12월1일(화)"
+  },
+  {
+    "meeting_id": 50793,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월19일(금)"
+  },
+  {
+    "meeting_id": 50796,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 2,
+    "meeting_date": "2021년2월22일(월)"
+  },
+  {
+    "meeting_id": 50906,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월19일(금)"
+  },
+  {
+    "meeting_id": 51095,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월23일(수)"
+  },
+  {
+    "meeting_id": 51098,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 2,
+    "meeting_date": "2021년6월25일(금)"
+  },
+  {
+    "meeting_id": 51107,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 3,
+    "meeting_date": "2021년6월28일(월)"
+  },
+  {
+    "meeting_id": 51251,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월8일(수)"
+  },
+  {
+    "meeting_id": 51257,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월9일(목)"
+  },
+  {
+    "meeting_id": 51261,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년9월10일(금)"
+  },
+  {
+    "meeting_id": 51496,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월15일(월)"
+  },
+  {
+    "meeting_id": 51508,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월16일(화)"
+  },
+  {
+    "meeting_id": 51601,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년12월1일(수)"
+  },
+  {
+    "meeting_id": 52041,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 399,
+    "chasu": 2,
+    "meeting_date": "2022년8월19일(금)"
+  },
+  {
+    "meeting_id": 52045,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 399,
+    "chasu": 1,
+    "meeting_date": "2022년8월18일(목)"
+  },
+  {
+    "meeting_id": 52132,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년9월16일(금)"
+  },
+  {
+    "meeting_id": 52308,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월4일(금)"
+  },
+  {
+    "meeting_id": 52313,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월7일(월)"
+  },
+  {
+    "meeting_id": 52486,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월23일(수)"
+  },
+  {
+    "meeting_id": 52570,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-청원심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년12월5일(월)"
+  },
+  {
+    "meeting_id": 52700,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월15일(수)"
+  },
+  {
+    "meeting_id": 52818,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월28일(화)"
+  },
+  {
+    "meeting_id": 52835,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월15일(수)"
+  },
+  {
+    "meeting_id": 52841,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월3일(월)"
+  },
+  {
+    "meeting_id": 52976,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 1,
+    "meeting_date": "2023년6월13일(화)"
+  },
+  {
+    "meeting_id": 52980,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 2,
+    "meeting_date": "2023년6월14일(수)"
+  },
+  {
+    "meeting_id": 53170,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월30일(수)"
+  },
+  {
+    "meeting_id": 53239,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월19일(화)"
+  },
+  {
+    "meeting_id": 53249,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-청원심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월21일(목)"
+  },
+  {
+    "meeting_id": 53268,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 2,
+    "meeting_date": "2023년9월25일(월)"
+  },
+  {
+    "meeting_id": 53434,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 3,
+    "meeting_date": "2023년11월15일(수)"
+  },
+  {
+    "meeting_id": 53468,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 2,
+    "meeting_date": "2023년11월14일(화)"
+  },
+  {
+    "meeting_id": 53492,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-예산·결산·기금심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년11월13일(월)"
+  },
+  {
+    "meeting_id": 53526,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 4,
+    "meeting_date": "2023년11월22일(수)"
+  },
+  {
+    "meeting_id": 53575,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 5,
+    "meeting_date": "2023년11월30일(목)"
+  },
+  {
+    "meeting_id": 53638,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "외교통일위원회-법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 6,
+    "meeting_date": "2023년12월8일(금)"
+  }
+]

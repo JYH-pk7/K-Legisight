@@ -1,0 +1,762 @@
+[
+  {
+    "meeting_id": 50164,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월7일(월)"
+  },
+  {
+    "meeting_id": 50203,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월16일(수)"
+  },
+  {
+    "meeting_id": 50240,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월21일(월)"
+  },
+  {
+    "meeting_id": 50241,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년9월22일(화)"
+  },
+  {
+    "meeting_id": 50248,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년9월23일(수)"
+  },
+  {
+    "meeting_id": 50431,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월10일(화)"
+  },
+  {
+    "meeting_id": 50435,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년11월12일(목)"
+  },
+  {
+    "meeting_id": 50458,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월11일(수)"
+  },
+  {
+    "meeting_id": 50558,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월26일(목)"
+  },
+  {
+    "meeting_id": 50579,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월27일(금)"
+  },
+  {
+    "meeting_id": 50600,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년12월1일(화)"
+  },
+  {
+    "meeting_id": 50620,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 5,
+    "meeting_date": "2020년12월3일(목)"
+  },
+  {
+    "meeting_id": 50631,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년12월3일(목)"
+  },
+  {
+    "meeting_id": 50661,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 5,
+    "meeting_date": "2020년12월4일(금)"
+  },
+  {
+    "meeting_id": 50681,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 6,
+    "meeting_date": "2020년12월8일(화)"
+  },
+  {
+    "meeting_id": 50682,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 7,
+    "meeting_date": "2020년12월9일(수)"
+  },
+  {
+    "meeting_id": 50799,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월19일(금)"
+  },
+  {
+    "meeting_id": 50818,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-청원심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월24일(수)"
+  },
+  {
+    "meeting_id": 50844,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월23일(화)"
+  },
+  {
+    "meeting_id": 50875,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월16일(화)"
+  },
+  {
+    "meeting_id": 50876,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 2,
+    "meeting_date": "2021년3월17일(수)"
+  },
+  {
+    "meeting_id": 50890,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월17일(수)"
+  },
+  {
+    "meeting_id": 50917,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월17일(수)"
+  },
+  {
+    "meeting_id": 50933,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 2,
+    "meeting_date": "2021년3월23일(화)"
+  },
+  {
+    "meeting_id": 50935,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 2,
+    "meeting_date": "2021년3월23일(화)"
+  },
+  {
+    "meeting_id": 50997,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월27일(화)"
+  },
+  {
+    "meeting_id": 50998,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월27일(화)"
+  },
+  {
+    "meeting_id": 51041,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 387,
+    "chasu": 1,
+    "meeting_date": "2021년5월24일(월)"
+  },
+  {
+    "meeting_id": 51042,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 387,
+    "chasu": 1,
+    "meeting_date": "2021년5월24일(월)"
+  },
+  {
+    "meeting_id": 51104,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월28일(월)"
+  },
+  {
+    "meeting_id": 51112,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월29일(화)"
+  },
+  {
+    "meeting_id": 51122,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월6일(화)"
+  },
+  {
+    "meeting_id": 51151,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월15일(목)"
+  },
+  {
+    "meeting_id": 51160,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 389,
+    "chasu": 2,
+    "meeting_date": "2021년7월20일(화)"
+  },
+  {
+    "meeting_id": 51191,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 390,
+    "chasu": 1,
+    "meeting_date": "2021년8월18일(수)"
+  },
+  {
+    "meeting_id": 51294,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월14일(화)"
+  },
+  {
+    "meeting_id": 51501,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월16일(화)"
+  },
+  {
+    "meeting_id": 51520,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월18일(목)"
+  },
+  {
+    "meeting_id": 51615,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년12월1일(수)"
+  },
+  {
+    "meeting_id": 51616,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년12월2일(목)"
+  },
+  {
+    "meeting_id": 51670,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년12월9일(목)"
+  },
+  {
+    "meeting_id": 51692,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 392,
+    "chasu": 1,
+    "meeting_date": "2021년12월16일(목)"
+  },
+  {
+    "meeting_id": 51698,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 392,
+    "chasu": 2,
+    "meeting_date": "2021년12월21일(화)"
+  },
+  {
+    "meeting_id": 51700,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 392,
+    "chasu": 3,
+    "meeting_date": "2021년12월22일(수)"
+  },
+  {
+    "meeting_id": 51711,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 392,
+    "chasu": 4,
+    "meeting_date": "2021년12월28일(화)"
+  },
+  {
+    "meeting_id": 51716,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 392,
+    "chasu": 5,
+    "meeting_date": "2022년1월4일(화)"
+  },
+  {
+    "meeting_id": 51887,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월9일(월)"
+  },
+  {
+    "meeting_id": 51889,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월9일(월)"
+  },
+  {
+    "meeting_id": 51902,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월16일(월)"
+  },
+  {
+    "meeting_id": 52051,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 399,
+    "chasu": 1,
+    "meeting_date": "2022년8월22일(월)"
+  },
+  {
+    "meeting_id": 52287,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월2일(수)"
+  },
+  {
+    "meeting_id": 52339,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월8일(화)"
+  },
+  {
+    "meeting_id": 52379,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월15일(화)"
+  },
+  {
+    "meeting_id": 52410,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월17일(목)"
+  },
+  {
+    "meeting_id": 52415,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월16일(수)"
+  },
+  {
+    "meeting_id": 52467,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월23일(수)"
+  },
+  {
+    "meeting_id": 52476,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월22일(화)"
+  },
+  {
+    "meeting_id": 52536,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월29일(화)"
+  },
+  {
+    "meeting_id": 52546,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월30일(수)"
+  },
+  {
+    "meeting_id": 52577,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 4,
+    "meeting_date": "2022년12월6일(화)"
+  },
+  {
+    "meeting_id": 52587,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 4,
+    "meeting_date": "2022년12월7일(수)"
+  },
+  {
+    "meeting_id": 52630,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 401,
+    "chasu": 1,
+    "meeting_date": "2022년12월26일(월)"
+  },
+  {
+    "meeting_id": 52691,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월14일(화)"
+  },
+  {
+    "meeting_id": 52695,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월15일(수)"
+  },
+  {
+    "meeting_id": 52701,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월15일(수)"
+  },
+  {
+    "meeting_id": 52767,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월15일(수)"
+  },
+  {
+    "meeting_id": 52873,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월18일(화)"
+  },
+  {
+    "meeting_id": 52876,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월19일(수)"
+  },
+  {
+    "meeting_id": 52938,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 406,
+    "chasu": 1,
+    "meeting_date": "2023년5월22일(월)"
+  },
+  {
+    "meeting_id": 53091,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 408,
+    "chasu": 1,
+    "meeting_date": "2023년7월26일(수)"
+  },
+  {
+    "meeting_id": 53127,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월22일(화)"
+  },
+  {
+    "meeting_id": 53128,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월22일(화)"
+  },
+  {
+    "meeting_id": 53150,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월24일(목)"
+  },
+  {
+    "meeting_id": 53153,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 2,
+    "meeting_date": "2023년8월25일(금)"
+  },
+  {
+    "meeting_id": 53232,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-환경법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월19일(화)"
+  },
+  {
+    "meeting_id": 53258,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "환경노동위원회-고용노동법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월20일(수)"
+  }
+]

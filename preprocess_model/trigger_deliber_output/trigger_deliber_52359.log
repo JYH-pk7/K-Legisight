@@ -1,0 +1,572 @@
+=== Trigger Deliber Log (meeting_id=52359) 2025-11-13 23:04:07.977790 ===
+
+총 발언 수: 594
+bill_pool 크기(의사일정 항 개수): 73
+
+소위원장 발언 수: 133
+
+
+=== 소위원장 트리거 판별 결과 ===
+
+- speech_order=1, tf_trigger=False, agenda_items=[]
+  발언 요약: 좌석을 정돈해 주시기 바랍니다.   성원이 되었으므로 제400회 국회(정기회) 제3차 농림축산식품법안심사소위원회를 개의하겠습니다.
+
+- speech_order=2, tf_trigger=True, agenda_items=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+  발언 요약: 그러면 의사일정 제1항부터 제73항까지 모두 73건의 법률안을 일괄 상정합니다.  심사 대상 안건의 명칭 및 순서는 배부해 드린 의사일정을 참고하시기 바랍니다.   배석하고 계신 분이 발언을 하는 경우에는 직위와 성함을 먼저 밝힌 후에 말씀하여 주시기 바랍니다.   먼
+
+- speech_order=4, tf_trigger=False, agenda_items=[]
+  발언 요약: 질의가 있으시거나 의견 개진이 필요하신 위원님들 계시면 말씀을 해 주시기 바랍니다. 다만……  죄송합니다.  정부 측 의견 말씀해 주시기 바랍니다.
+
+- speech_order=6, tf_trigger=False, agenda_items=[]
+  발언 요약: 차관님, 오늘 중기부에서 정책관이 안 왔습니까?
+
+- speech_order=8, tf_trigger=False, agenda_items=[]
+  발언 요약: 오후에 이 부분에 대해서 결론을 내자 이거지요?
+
+- speech_order=10, tf_trigger=False, agenda_items=[]
+  발언 요약: 예, 알겠습니다.
+
+- speech_order=13, tf_trigger=False, agenda_items=[]
+  발언 요약: 잠깐만요, 위원님들께서 오후에 일정이 있으신 분들이 계세요. 그래서 될 수 있으면 오전에……
+
+- speech_order=15, tf_trigger=False, agenda_items=[]
+  발언 요약: 질의가 있으시거나 의견 개진이 필요하신 위원님 계시면 말씀해 주시기 바랍니다.  다만 논의가 길어지는 부분은 또 찬반 의견이 분리된 부분은 오늘 시간이 촉박한 관계로 우선 크게 이견이 없는 부분부터 처리하는 방향으로 하겠습니다.  윤준병 위원님.
+
+- speech_order=30, tf_trigger=False, agenda_items=[]
+  발언 요약: 또 위원님들 다른 내용 질의해 주시기 바랍니다.  이원택 위원님.
+
+- speech_order=39, tf_trigger=False, agenda_items=[]
+  발언 요약: 윤준병 위원님.  좀 짧게짧게 이야기해 주십시오.
+
+- speech_order=48, tf_trigger=False, agenda_items=[]
+  발언 요약: 홍문표 위원님.
+
+- speech_order=63, tf_trigger=False, agenda_items=[]
+  발언 요약: 이원택 위원님.
+
+- speech_order=66, tf_trigger=False, agenda_items=[]
+  발언 요약: 차관님!
+
+- speech_order=68, tf_trigger=False, agenda_items=[]
+  발언 요약: 그러니까 반대한다는 것은 아니지요?
+
+- speech_order=70, tf_trigger=False, agenda_items=[]
+  발언 요약: 알겠습니다.  박덕흠 위원님.
+
+- speech_order=74, tf_trigger=False, agenda_items=[]
+  발언 요약: 신정훈 위원님.
+
+- speech_order=104, tf_trigger=False, agenda_items=[]
+  발언 요약: 마무리해 주십시오.
+
+- speech_order=116, tf_trigger=False, agenda_items=[]
+  발언 요약: 이 법안에 대해서는 저도 발의를 했기 때문에 한 말씀 드리겠습니다.  경제사업 활성화를 그동안에 농협에서 쭉 추진해 왔고, 그런데 어떻게 보면 우리가 국정감사에서도 다뤘습니다마는 여러 가지 경제사업 실패로 인해서 농협중앙회의 재무적 위험 이런 것들이 가중되고 있는 상황
+
+- speech_order=118, tf_trigger=False, agenda_items=[]
+  발언 요약: 중기부에서 중소기업 간주 특례 조항의 유효기간 연장 문제 그것을 오전 중에……
+
+- speech_order=120, tf_trigger=False, agenda_items=[]
+  발언 요약: 그때 같이 이것을 연기해서 하는 걸로……
+
+- speech_order=122, tf_trigger=False, agenda_items=[]
+  발언 요약: 아니 그때 일괄해서 1항부터 12항까지……
+
+- speech_order=124, tf_trigger=False, agenda_items=[]
+  발언 요약: 아니 오전에 합니다, 오전에. 오전까지 하기로 했어요.
+
+- speech_order=127, tf_trigger=False, agenda_items=[]
+  발언 요약: 아니 1항부터 12항까지는 그 부분이 결론될 때, 결론이 날 때 같이 일괄적으로 하자 이거지요.
+
+- speech_order=130, tf_trigger=False, agenda_items=[]
+  발언 요약: 중복된 이야기는 아까……
+
+- speech_order=132, tf_trigger=False, agenda_items=[]
+  발언 요약: 예, 알겠습니다.
+
+- speech_order=134, tf_trigger=False, agenda_items=[]
+  발언 요약: 중복된 이야기는 조금……
+
+- speech_order=136, tf_trigger=False, agenda_items=[]
+  발언 요약: 이원택 위원님, 아까 그 이야기는 하셨잖아요.
+
+- speech_order=140, tf_trigger=True, agenda_items=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+  발언 요약: 의사일정 1항부터 12항까지는 아까 제가 말씀대로 그렇게 처리하도록 하겠습니다.   다음, 의사일정 제13항부터 제19항까지 모두 7건의 농어촌정비법 일부개정법률안에 대해 수석전문위원께서 주요 사항을 설명해 주시기 바랍니다.
+
+- speech_order=143, tf_trigger=False, agenda_items=[]
+  발언 요약: 이 문제는 또 논의하기로 했어요.
+
+- speech_order=146, tf_trigger=False, agenda_items=[]
+  발언 요약: 그러면……  죄송합니다.
+
+- speech_order=148, tf_trigger=False, agenda_items=[]
+  발언 요약: 예, 안호영 위원님.
+
+- speech_order=150, tf_trigger=False, agenda_items=[]
+  발언 요약: 안호영 위원님 수고하셨습니다.   전문위원님 설명해 주시기 바랍니다.
+
+- speech_order=152, tf_trigger=False, agenda_items=[]
+  발언 요약: 다음은 정부 측 의견 제시해 주시기 바랍니다.
+
+- speech_order=154, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들 의견 있으시면 제시해 주시기 바랍니다.   윤준병 위원님.
+
+- speech_order=161, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들 다른 의견 없습니까?    (「예」 하는 위원 있음)  그러면……
+
+- speech_order=170, tf_trigger=False, agenda_items=[]
+  발언 요약: 의결하도록 하겠습니다.   지금 정부안이 여러 가지 수정안과 함께 이렇게 나왔는데요. 이것들을 토털 해서 의사일정 제13항부터 제19항까지……
+
+- speech_order=174, tf_trigger=False, agenda_items=[]
+  발언 요약: 됐습니까?
+
+- speech_order=176, tf_trigger=True, agenda_items=[20, 21]
+  발언 요약: 의사일정 제14항부터 19항까지 이상 6건의 법률안은 본회의에 부의하지 않고 농어촌정비법 일부개정법률안(대안)을 우리 위원회안으로 제안하고자 하는데 이의 없으십니까?    (「예」 하는 위원 있음)  가결되었음을 선포합니다.  의사일정 제13항은 소위원회에 계속 계류하
+
+- speech_order=178, tf_trigger=False, agenda_items=[]
+  발언 요약: 정부 측 의견 제시해 주시기 바랍니다.
+
+- speech_order=180, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들 의견 주시기 바랍니다.   윤준병 위원님.
+
+- speech_order=185, tf_trigger=True, agenda_items=[22]
+  발언 요약: 의결하도록 하겠습니다.   의사일정 제21항 농업․농촌 및 식품산업 기본법 일부개정법률안은 수정 의결하고자 하는데 이의 없으십니까?     (「예」 하는 위원 있음)  가결되었음을 선포합니다.   의사일정 제20항 박대출 의원님의 법안은 계속 계류하도록 하겠습니다.  
+
+- speech_order=187, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들.     (「이의 없습니다」 하는 위원 있음)  이의 없습니까?     (「예」 하는 위원 있음)  의결하겠습니다.   또 어디 가셨지?
+
+- speech_order=189, tf_trigger=False, agenda_items=[]
+  발언 요약: 이원택 위원님……
+
+- speech_order=191, tf_trigger=False, agenda_items=[]
+  발언 요약: 이원택 위원님 나가셨구나. 얼른 오시라 그래요.
+
+- speech_order=196, tf_trigger=True, agenda_items=[23]
+  발언 요약: 그럴까요?   다음, 의사일정 제23항 기능성 양잠산업 육성 및 지원에 관한 법률 일부개정법률안에 대해 수석전문위원께서 주요 사항을 설명해 주시기 바랍니다.
+
+- speech_order=198, tf_trigger=False, agenda_items=[]
+  발언 요약: 수고하셨습니다.   정부 측 의견 제시해 주시기 바랍니다.
+
+- speech_order=200, tf_trigger=False, agenda_items=[]
+  발언 요약: 수고하셨습니다.   위원님들 말씀해 주시기 바랍니다.   이원택 위원님.
+
+- speech_order=202, tf_trigger=False, agenda_items=[]
+  발언 요약: 양잠인의 날로 해도 괜찮습니까?
+
+- speech_order=207, tf_trigger=True, agenda_items=[22]
+  발언 요약: 수고하셨습니다.  의결하겠습니다. 22항부터 먼저 하겠습니다.  김치산업 진흥법 일부개정법률안은 원안 의결하고자 하는데 이의 없으십니까?
+
+- speech_order=209, tf_trigger=False, agenda_items=[]
+  발언 요약: 22항, 이 앞전 겁니다. 아까 의결정족수가 안 돼서……
+
+- speech_order=213, tf_trigger=False, agenda_items=[]
+  발언 요약: 원안 의견.
+
+- speech_order=215, tf_trigger=True, agenda_items=[24]
+  발언 요약: 원안 의결하고자 하는데 이의 없으십니까?    (「예」 하는 위원 있음)  이의 없으시면 가결되었음을 선포합니다.  의사일정 제23항 기능성 양잠산업 육성 및 지원에 관한 법률 일부개정법률안은 수정 의결하고자 하는데 이의 없으십니까?    (「예」 하는 위원 있음)  
+
+- speech_order=217, tf_trigger=False, agenda_items=[]
+  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
+
+- speech_order=219, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들 의견 없습니까?  의결하도록 하겠습니다.   의사일정 제24항 농촌융복합산업 육성 및 지원에 관한 법률 일부개정법률안은 수정 의결하고자 하는데 이의 없으십니까?    (「예」 하는 위원 있음)  가결되었음을 선포합니다.  다시 1항부터 19항으로 돌아가겠습니다
+
+- speech_order=221, tf_trigger=False, agenda_items=[]
+  발언 요약: 그렇게 해 주십시오.
+
+- speech_order=223, tf_trigger=False, agenda_items=[]
+  발언 요약: 잘 알겠습니다.  수고하셨습니다.
+
+- speech_order=225, tf_trigger=False, agenda_items=[]
+  발언 요약: 윤준병 위원님.
+
+- speech_order=235, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들, 어떻게 할까요? 5년으로 할까요?
+
+- speech_order=239, tf_trigger=False, agenda_items=[]
+  발언 요약: 삭제는 좀 그렇고……
+
+- speech_order=242, tf_trigger=False, agenda_items=[]
+  발언 요약: 3년이나 5년이나 뭐……
+
+- speech_order=244, tf_trigger=False, agenda_items=[]
+  발언 요약: 잠깐만, 농협하고 상의했습니까?  농협 쪽 의견 제시해 주시기 바랍니다.
+
+- speech_order=248, tf_trigger=False, agenda_items=[]
+  발언 요약: 예, 알겠습니다.
+
+- speech_order=251, tf_trigger=False, agenda_items=[]
+  발언 요약: 계속 그건 평행선이니까요 나중에 이야기하는 걸로 하고……  홍문표 위원님.
+
+- speech_order=254, tf_trigger=False, agenda_items=[]
+  발언 요약: 홍문표 위원님.
+
+- speech_order=260, tf_trigger=False, agenda_items=[]
+  발언 요약: 농림부 입장도 있고 그렇기 때문에 일단 저는 오늘 이것을 하고 나중에 문제가 되면 또 우리가 상임위에서 상의하는 걸로 하지요.
+
+- speech_order=263, tf_trigger=False, agenda_items=[]
+  발언 요약: 예.
+
+- speech_order=265, tf_trigger=False, agenda_items=[]
+  발언 요약: 농협이 동의했으니까.
+
+- speech_order=267, tf_trigger=False, agenda_items=[]
+  발언 요약: 예, 고맙습니다.
+
+- speech_order=271, tf_trigger=False, agenda_items=[]
+  발언 요약: 그리고 위원님들, 아까 서로 조금의 입장 차이가 있었습니다마는 중앙회장 연임 문제 이것 의결을 해야 됩니다. 사실 의결해야 되는데 책임성 강화 측면이나 그다음에 이게 권한을 집중하고 이런 문제는 아니라고 생각합니다. 책임성을 강화하는 차원에서 연임 문제는 우리가 여기서
+
+- speech_order=274, tf_trigger=False, agenda_items=[]
+  발언 요약: 잠깐만요, 위원님들 먼저 이야기 듣고.  신정훈 위원님.
+
+- speech_order=276, tf_trigger=False, agenda_items=[]
+  발언 요약: 다른 위원님들 의견 있습니까?  홍문표 위원님.
+
+- speech_order=289, tf_trigger=False, agenda_items=[]
+  발언 요약: 이원택 위원님 중복된 이야기는, 점심시간이 됐습니다. 아닙니까?
+
+- speech_order=291, tf_trigger=False, agenda_items=[]
+  발언 요약: 박덕흠 위원님.
+
+- speech_order=293, tf_trigger=False, agenda_items=[]
+  발언 요약: 박덕흠 위원님 수고하셨습니다.  윤준병 위원님.
+
+- speech_order=295, tf_trigger=False, agenda_items=[]
+  발언 요약: 최춘식 위원님 이제 오셨네요. 한말씀 해 주십시오.
+
+- speech_order=304, tf_trigger=False, agenda_items=[]
+  발언 요약: 알겠습니다. 농협 관련해서는 이제 마무리……
+
+- speech_order=306, tf_trigger=False, agenda_items=[]
+  발언 요약: 짧게요.
+
+- speech_order=312, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님……
+
+- speech_order=314, tf_trigger=False, agenda_items=[]
+  발언 요약: 중앙회장 연임 건 문제 그다음에 중소기업 간주 특례 조항의 유효기간 문제 이 부분들, 농협법은 우리 위원님들의 이견이 있으니까 이렇게 하지요. 내일 또 산림청 관련된 법안이 있습니다. 그러니까 이것을 빨리 처리를 하고 그 이후에 재논의를 하는 걸로 이렇게 하고요. 오늘
+
+- speech_order=315, tf_trigger=True, agenda_items=[25, 26]
+  발언 요약: 회의를 속개하도록 하겠습니다.  오전에 이어 법안 심사를 계속하겠습니다.   다음, 의사일정 제25항과 제26항 이상 2건의 귀농어․귀촌 활성화 및 지원에 관한 법률 일부개정법률안에 대해 수석전문위원님께서 주요 사항 설명해 주시기 바랍니다.
+
+- speech_order=317, tf_trigger=False, agenda_items=[]
+  발언 요약: 수고했습니다.  정부 측 의견 제시해 주시기 바랍니다.
+
+- speech_order=319, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들 의견 주시기 바랍니다.
+
+- speech_order=328, tf_trigger=True, agenda_items=[27, 28]
+  발언 요약: 다른 의견 없습니까?   그러면 의결은 다른 위원님들이 오시면 하는 걸로 하고 다음 일정으로 넘어가겠습니다.   다음은 의사일정 27항과 28항, 이상 2건의 식품산업진흥법 일부개정법률안에 대해 수석전문위원님께서 주요 사항 설명해 주시기 바랍니다.
+
+- speech_order=330, tf_trigger=False, agenda_items=[]
+  발언 요약: 정부 측 의견 제시해 주시기 바랍니다.
+
+- speech_order=332, tf_trigger=True, agenda_items=[29, 30, 31, 32, 33]
+  발언 요약: 위원님들 의견 주시기 바랍니다.   없습니까?    (「예」 하는 위원 있음)  없으면 의결은 정족수가 채워지는 대로 하도록 하겠습니다.   다음 의사일정 제29항부터 제33항까지 이상 5건의 농어업재해보험법 일부개정법률안에 대해 수석전문위원께서 주요 사항을 설명해 주
+
+- speech_order=334, tf_trigger=False, agenda_items=[]
+  발언 요약: 수고하셨습니다.   위원님들 의견 제시해 주시기 바랍니다.   아, 정부 측 의견부터 갑니다.
+
+- speech_order=336, tf_trigger=False, agenda_items=[]
+  발언 요약: 수고하셨습니다.  위원님들 의견 제시해 주시기 바랍니다.  신정훈 위원님.
+
+- speech_order=361, tf_trigger=False, agenda_items=[]
+  발언 요약: 윤준병 위원님.
+
+- speech_order=383, tf_trigger=False, agenda_items=[]
+  발언 요약: 차관님, 방금 윤준병 위원님께서 말씀하신 부분에, 이게 대안으로서 새로, 그러니까 재난지원금 수준을 고려해서 보험을 새로운 상품을 만들 수 있도록 운영하겠다 이런 것 같은데, 그렇지요?
+
+- speech_order=385, tf_trigger=False, agenda_items=[]
+  발언 요약: 그러니까 그것을 대안으로 지금 수정 의견을 제시한 게 그것 아니에요?
+
+- speech_order=387, tf_trigger=False, agenda_items=[]
+  발언 요약: 이런 것을 고려해서 보험을 운영하겠다는 것은 새로운 상품을 만들겠다는 것 아닌가? 그런 것 같은데요. 그게 아니라면 좀 대책을 마련해야 되지요, 이것을.
+
+- speech_order=389, tf_trigger=False, agenda_items=[]
+  발언 요약: 그러니까 윤재갑 의원안은 수용을 못 하겠다는 것 아닙니까, 지금?
+
+- speech_order=391, tf_trigger=False, agenda_items=[]
+  발언 요약: 하나 더요.  134쪽의 정희용 의원, 분과위원회 운영 의무화 문제 이것은 수용하는 거예요, 아니면 반대 의견이에요?
+
+- speech_order=393, tf_trigger=False, agenda_items=[]
+  발언 요약: 우리 자료에 반대 의견으로 표시가 돼서 제가 다시 한번 확인……
+
+- speech_order=395, tf_trigger=False, agenda_items=[]
+  발언 요약: 알겠습니다.  다른 위원님들 의견……  이원택 위원님.
+
+- speech_order=398, tf_trigger=False, agenda_items=[]
+  발언 요약: 다른 위원님 의견 없습니까?    (「예」 하는 위원 있음)
+
+- speech_order=400, tf_trigger=False, agenda_items=[]
+  발언 요약: 예, 위원님.
+
+- speech_order=406, tf_trigger=False, agenda_items=[]
+  발언 요약: 개정안은 반대하는 거지요?
+
+- speech_order=408, tf_trigger=True, agenda_items=[34, 35, 36]
+  발언 요약: 의결합시다.  의결하도록 하겠습니다.  의사일정 제29항부터 제32항까지 이상 4건의 법률안은 본회의에 부의하지 않고 농어업재해보험법 일부개정법률안(대안)을 우리 위원회안으로 제안하고자 하는데 이의 없으십니까?    (「없습니다」 하는 위원 있음)  이의 없으면 가결되
+
+- speech_order=410, tf_trigger=False, agenda_items=[]
+  발언 요약: 수고하셨습니다.   정부 측 의견 제시해 주시기 바랍니다.
+
+- speech_order=412, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들 의견 제시해 주시기 바랍니다.  윤준병 위원님.
+
+- speech_order=418, tf_trigger=False, agenda_items=[]
+  발언 요약: 다른 위원님들 의견……  최춘식 위원님.
+
+- speech_order=426, tf_trigger=False, agenda_items=[]
+  발언 요약: 안호영 위원님.
+
+- speech_order=441, tf_trigger=False, agenda_items=[]
+  발언 요약: 다른 위원님들 의견 더 없습니까?   의결하도록 하겠습니다.  의사일정 제34항부터 제36항까지……
+
+- speech_order=444, tf_trigger=True, agenda_items=[37, 38, 39, 40, 41, 42, 43, 44]
+  발언 요약: 의사일정 제34항부터 제36항까지 이상 3건의 법률안은 본회의에 부의하지 않고 종자산업법 일부개정법률안을 우리 위원회안으로 제안하고자 하는데 이의 없으십니까?     (「예」 하는 위원 있음)  가결되었음을 선포합니다.  다음, 의사일정 제37항부터 제44항까지 이상 
+
+- speech_order=446, tf_trigger=False, agenda_items=[]
+  발언 요약: 정부 측 의견 제시해 주시기 바랍니다.
+
+- speech_order=448, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들 의견 제시해 주시기 바랍니다.   윤준병 위원님.
+
+- speech_order=461, tf_trigger=False, agenda_items=[]
+  발언 요약: 안호영 위원님이 먼저……
+
+- speech_order=473, tf_trigger=False, agenda_items=[]
+  발언 요약: 이원택 위원님.
+
+- speech_order=482, tf_trigger=False, agenda_items=[]
+  발언 요약: 차관님, 온라인 불법 경마 문제에 대해서 지금 처벌 규정이 없나요? 있잖아요.
+
+- speech_order=484, tf_trigger=False, agenda_items=[]
+  발언 요약: 아니 현행법.
+
+- speech_order=486, tf_trigger=False, agenda_items=[]
+  발언 요약: 있으면 그대로 처벌하면 되지요.
+
+- speech_order=488, tf_trigger=False, agenda_items=[]
+  발언 요약: 아니 그러니까.   그런데 온라인 경마가 시행이 되면 그래도 또 불법이 있을 것 아니에요?
+
+- speech_order=490, tf_trigger=False, agenda_items=[]
+  발언 요약: 그것 현행법으로 하면 되잖아요.
+
+- speech_order=492, tf_trigger=False, agenda_items=[]
+  발언 요약: 이 문제가 공론화된 지가 꽤 됐는데 그것을 아직 준비 안 하고 있다면 문제고.   장외발매소 문제는 제가 알기로는 이게 시행령에서 대통령령으로 충분히 가능해요.
+
+- speech_order=494, tf_trigger=False, agenda_items=[]
+  발언 요약: 아무튼 제가 그러면 12월 중으로 다시 법안소위 개최할 테니까 그때까지 준비해 주세요.
+
+- speech_order=496, tf_trigger=False, agenda_items=[]
+  발언 요약: 이것을 빨리 하지요. 이것을 이렇게 늘리고 있는지 모르겠네요.  또 다른 의견 있습니까?    (「없습니다」 하는 위원 있음)  의결 어떻게 하지?
+
+- speech_order=498, tf_trigger=False, agenda_items=[]
+  발언 요약: 신정훈 위원님.
+
+- speech_order=508, tf_trigger=False, agenda_items=[]
+  발언 요약: 예, 최춘식 위원님.
+
+- speech_order=538, tf_trigger=False, agenda_items=[]
+  발언 요약: 안호영 위원님 먼저 하시고.
+
+- speech_order=545, tf_trigger=True, agenda_items=[45, 46, 47]
+  발언 요약: 다른 의견 없으시지요?    (「예」 하는 위원 있음)  의결하도록 하겠습니다.   의사일정 37항부터 제40항까지 온라인 도입을 위한 법률안은 계속 계류토록 하고요.   의사일정 제41항부터 제44항까지 이상 4건의 법률안은 본회의에 부의하지 않고 한국마사회법 일부개
+
+- speech_order=547, tf_trigger=False, agenda_items=[]
+  발언 요약: 정부 측 의견 제시해 주시기 바랍니다.
+
+- speech_order=549, tf_trigger=False, agenda_items=[]
+  발언 요약: 다음은 위원님들의 의견 듣도록 하겠습니다.     (「특별한 이견이 없습니다」 하는 위원 있음)  없습니까?   의결하도록 하겠습니다, 그러면.   의사일정 제46항과 제47항, 이상 2건의 법률안은 본회의에 부의하지 않고 사료관리법 일부개정법률안(대안)을 우리 위원회
+
+- speech_order=551, tf_trigger=True, agenda_items=[48]
+  발언 요약: 아, 미안합니다.   다음 의사일정 제48항 지역농림어업 발전사업 협력 촉진에 관한 법률안에 대해 수석전문위원께서 주요사항을 설명해 주시기 바랍니다.
+
+- speech_order=553, tf_trigger=False, agenda_items=[]
+  발언 요약: 정부 측 의견 제시해 주시기 바랍니다.
+
+- speech_order=555, tf_trigger=False, agenda_items=[]
+  발언 요약: 위원님들 의견 제시해 주시기 바랍니다.  윤준병 위원님.
+
+- speech_order=560, tf_trigger=False, agenda_items=[]
+  발언 요약: 제정안대로 한다는 거지요?
+
+- speech_order=562, tf_trigger=False, agenda_items=[]
+  발언 요약: 그러니까 상호 협력하여야 한다 이렇게……
+
+- speech_order=568, tf_trigger=False, agenda_items=[]
+  발언 요약: 그렇게 수정하도록 하겠습니다.  또 다른 의견.
+
+- speech_order=574, tf_trigger=False, agenda_items=[]
+  발언 요약: 신정훈 위원님.
+
+- speech_order=586, tf_trigger=False, agenda_items=[]
+  발언 요약: 다른 위원 의견 없지요?    (「예」 하는 위원 있음)  그러면 의결토록 하겠습니다.
+
+- speech_order=588, tf_trigger=True, agenda_items=[49, 50, 51, 52, 53, 54, 55, 56, 57]
+  발언 요약: 의사일정 제48항 지역농림어업 발전사업 협력 촉진에 관한 법률안은 수정의결하고자 하는데 이의 없으십니까?    (「없습니다」 하는 위원 있음)  가결되었음을 선포합니다.  다음 의사일정 제49항부터 제57항까지 이상 9건의 농수산물 유통 및 가격안정에 관한 법률 일부개
+
+- speech_order=594, tf_trigger=False, agenda_items=[]
+  발언 요약: 다시 설명드리면 농안법 관련해서 정부가 지금 준비를 하고 있기 때문에 그 안이 나오면 그때 논의하는 걸로 이렇게 하겠습니다. 그렇게 이해해 주시기 바랍니다.  다음 의사일정 제58항 농업인 영농형 태양광 발전사업 지원에 관한 법률안과 제59항 영농태양광 발전사업 지원에
+
+
+=== 최종 심사구간(deliberation segments) ===
+
+[delib 1] trigger_speech_order=2 (speech_id=110272887875363095)
+  발언자: 소위원장 김승남
+  구간: speech_order 2 ~ 139
+  심사 의사일정: 의사일정 제1항부터 제12항까지 (raw: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
+  bill_review (bill_pool 매칭 결과):
+    - 1. 농업협동조합법 일부개정법률안(이원택 의원 대표발의)(의안번호 2107688)
+    - 2. 농업협동조합법 일부개정법률안(윤준병 의원 대표발의)(의안번호 2107948)
+    - 3. 농업협동조합법 일부개정법률안(이원택 의원 대표발의)(의안번호 2109747)
+    - 4. 농업협동조합법 일부개정법률안(김태흠 의원 대표발의)(의안번호 2113672)
+    - 5. 농업협동조합법 일부개정법률안(윤재갑 의원 대표발의)(의안번호 2114108)
+    - 6. 농업협동조합법 일부개정법률안(김승남 의원 대표발의)(의안번호 2114366)
+    - 7. 농업협동조합법 일부개정법률안(하영제 의원 대표발의)(의안번호 2114528)
+    - 8. 농업협동조합법 일부개정법률안(김선교 의원 대표발의)(의안번호 2114830)
+    - 9. 농업협동조합법 일부개정법률안(이만희 의원 대표발의)(의안번호 2115138)
+    - 10. 농업협동조합법 일부개정법률안(윤준병 의원 대표발의)(의안번호 2117373)
+    - 11. 농업협동조합법 일부개정법률안(윤재갑 의원 대표발의)(의안번호 2117761)
+    - 12. 농업협동조합법 일부개정법률안(안호영 의원 대표발의)(의안번호 2117912)
+
+[delib 2] trigger_speech_order=140 (speech_id=8439541617305562839)
+  발언자: 소위원장 김승남
+  구간: speech_order 140 ~ 175
+  심사 의사일정: 의사일정 제1항부터 제19항까지 (raw: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19])
+  bill_review (bill_pool 매칭 결과):
+    - 1. 농업협동조합법 일부개정법률안(이원택 의원 대표발의)(의안번호 2107688)
+    - 2. 농업협동조합법 일부개정법률안(윤준병 의원 대표발의)(의안번호 2107948)
+    - 3. 농업협동조합법 일부개정법률안(이원택 의원 대표발의)(의안번호 2109747)
+    - 4. 농업협동조합법 일부개정법률안(김태흠 의원 대표발의)(의안번호 2113672)
+    - 5. 농업협동조합법 일부개정법률안(윤재갑 의원 대표발의)(의안번호 2114108)
+    - 6. 농업협동조합법 일부개정법률안(김승남 의원 대표발의)(의안번호 2114366)
+    - 7. 농업협동조합법 일부개정법률안(하영제 의원 대표발의)(의안번호 2114528)
+    - 8. 농업협동조합법 일부개정법률안(김선교 의원 대표발의)(의안번호 2114830)
+    - 9. 농업협동조합법 일부개정법률안(이만희 의원 대표발의)(의안번호 2115138)
+    - 10. 농업협동조합법 일부개정법률안(윤준병 의원 대표발의)(의안번호 2117373)
+    - 11. 농업협동조합법 일부개정법률안(윤재갑 의원 대표발의)(의안번호 2117761)
+    - 12. 농업협동조합법 일부개정법률안(안호영 의원 대표발의)(의안번호 2117912)
+    - 13. 농어촌정비법 일부개정법률안(안호영 의원 대표발의)(의안번호 2106375)
+    - 14. 농어촌정비법 일부개정법률안(김승남 의원 대표발의)(의안번호 2111251)
+    - 15. 농어촌정비법 일부개정법률안(서일준 의원 대표발의)(의안번호 2114411)
+    - 16. 농어촌정비법 일부개정법률안(정부 제출)(의안번호 2114551)
+    - 17. 농어촌정비법 일부개정법률안(김승남 의원 대표발의)(의안번호 2115845)
+    - 18. 농어촌정비법 일부개정법률안(서삼석 의원 대표발의)(의안번호 2116160)
+    - 19. 농어촌정비법 일부개정법률안(윤준병 의원 대표발의)(의안번호 2117505)
+
+[delib 3] trigger_speech_order=176 (speech_id=4158298358381704317)
+  발언자: 소위원장 김승남
+  구간: speech_order 176 ~ 184
+  심사 의사일정: 의사일정 제20항부터 제21항까지 (raw: [20, 21])
+  bill_review (bill_pool 매칭 결과):
+    - 20. 농업․농촌 및 식품산업 기본법 일부개정법률안(박대출 의원 대표발의)(의안번호 2109321)
+    - 21. 농업․농촌 및 식품산업 기본법 일부개정법률안(이원택 의원 대표발의)(의안번호 2112370)
+
+[delib 4] trigger_speech_order=185 (speech_id=4309231288051493367)
+  발언자: 소위원장 김승남
+  구간: speech_order 185 ~ 195
+  심사 의사일정: 의사일정 제22항 (raw: [22])
+  bill_review (bill_pool 매칭 결과):
+    - 22. 김치산업 진흥법 일부개정법률안(최형두 의원 대표발의)(의안번호 2110597)
+
+[delib 5] trigger_speech_order=196 (speech_id=964236376612686591)
+  발언자: 소위원장 김승남
+  구간: speech_order 196 ~ 206
+  심사 의사일정: 의사일정 제23항 (raw: [23])
+  bill_review (bill_pool 매칭 결과):
+    - 23. 기능성 양잠산업 육성 및 지원에 관한 법률 일부개정법률안(이원택 의원 대표발의)(의안번호 2115122)
+
+[delib 6] trigger_speech_order=207 (speech_id=7735570979992591679)
+  발언자: 소위원장 김승남
+  구간: speech_order 207 ~ 214
+  심사 의사일정: 의사일정 제22항 (raw: [22])
+  bill_review (bill_pool 매칭 결과):
+    - 22. 김치산업 진흥법 일부개정법률안(최형두 의원 대표발의)(의안번호 2110597)
+
+[delib 7] trigger_speech_order=215 (speech_id=3116051537986386734)
+  발언자: 소위원장 김승남
+  구간: speech_order 215 ~ 314
+  심사 의사일정: 의사일정 제24항 (raw: [24])
+  bill_review (bill_pool 매칭 결과):
+    - 24. 농촌융복합산업 육성 및 지원에 관한 법률 일부개정법률안(김수흥 의원 대표발의)(의안번호 2115396)
+
+[delib 8] trigger_speech_order=315 (speech_id=1778463106656281713)
+  발언자: 소위원장 김승남
+  구간: speech_order 315 ~ 327
+  심사 의사일정: 의사일정 제25항부터 제26항까지 (raw: [25, 26])
+  bill_review (bill_pool 매칭 결과):
+    - 25. 귀농어․귀촌 활성화 및 지원에 관한 법률 일부개정법률안(김수흥 의원 대표발의)(의안번호 2115394)
+    - 26. 귀농어․귀촌 활성화 및 지원에 관한 법률 일부개정법률안(윤준병 의원 대표발의)(의안번호 2117500)
+
+[delib 9] trigger_speech_order=328 (speech_id=2739409093510085477)
+  발언자: 소위원장 김승남
+  구간: speech_order 328 ~ 331
+  심사 의사일정: 의사일정 제27항부터 제28항까지 (raw: [27, 28])
+  bill_review (bill_pool 매칭 결과):
+    - 27. 식품산업진흥법 일부개정법률안(윤준병 의원 대표발의)(의안번호 2116055)
+    - 28. 식품산업진흥법 일부개정법률안(이개호 의원 대표발의)(의안번호 2116551)
+
+[delib 10] trigger_speech_order=332 (speech_id=3343641890918668930)
+  발언자: 소위원장 김승남
+  구간: speech_order 332 ~ 407
+  심사 의사일정: 의사일정 제29항부터 제33항까지 (raw: [29, 30, 31, 32, 33])
+  bill_review (bill_pool 매칭 결과):
+    - 29. 농어업재해보험법 일부개정법률안(윤두현 의원 대표발의)(의안번호 2100913)
+    - 30. 농어업재해보험법 일부개정법률안(윤재갑 의원 대표발의)(의안번호 2108232)
+    - 31. 농어업재해보험법 일부개정법률안(이용호 의원 대표발의)(의안번호 2111369)
+    - 32. 농어업재해보험법 일부개정법률안(정희용 의원 대표발의)(의안번호 2114077)
+    - 33. 농어업재해보험법 일부개정법률안(김수흥 의원 대표발의)(의안번호 2114480)
+
+[delib 11] trigger_speech_order=408 (speech_id=767079043769814107)
+  발언자: 소위원장 김승남
+  구간: speech_order 408 ~ 443
+  심사 의사일정: 의사일정 제34항부터 제36항까지 (raw: [34, 35, 36])
+  bill_review (bill_pool 매칭 결과):
+    - 34. 종자산업법 일부개정법률안(윤재갑 의원 대표발의)(의안번호 2111244)
+    - 35. 종자산업법 일부개정법률안(이만희 의원 대표발의)(의안번호 2114263)
+    - 36. 종자산업법 일부개정법률안(정부 제출)(의안번호 2114943)
+
+[delib 12] trigger_speech_order=444 (speech_id=538437019222259416)
+  발언자: 소위원장 김승남
+  구간: speech_order 444 ~ 544
+  심사 의사일정: 의사일정 제37항부터 제44항까지 (raw: [37, 38, 39, 40, 41, 42, 43, 44])
+  bill_review (bill_pool 매칭 결과):
+    - 37. 한국마사회법 일부개정법률안(김승남 의원 대표발의)(의안번호 2103168)
+    - 38. 한국마사회법 일부개정법률안(윤재갑 의원 대표발의)(의안번호 2104149)
+    - 39. 한국마사회법 일부개정법률안(정운천 의원 대표발의)(의안번호 2104438)
+    - 40. 한국마사회법 일부개정법률안(이만희 의원 대표발의)(의안번호 2105672)
+    - 41. 한국마사회법 일부개정법률안(안병길 의원 대표발의)(의안번호 2116517)
+    - 42. 한국마사회법 일부개정법률안(안병길 의원 대표발의)(의안번호 2116535)
+    - 43. 한국마사회법 일부개정법률안(김승남 의원 대표발의)(의안번호 2117045)
+    - 44. 한국마사회법 일부개정법률안(윤준병 의원 대표발의)(의안번호 2117581)
+
+[delib 13] trigger_speech_order=545 (speech_id=6641024810375589795)
+  발언자: 소위원장 김승남
+  구간: speech_order 545 ~ 550
+  심사 의사일정: 의사일정 제45항부터 제47항까지 (raw: [45, 46, 47])
+  bill_review (bill_pool 매칭 결과):
+    - 45. 사료관리법 일부개정법률안(한준호 의원 대표발의)(의안번호 2111067)
+    - 46. 사료관리법 일부개정법률안(신영대 의원 대표발의)(의안번호 2114090)
+    - 47. 사료관리법 일부개정법률안(맹성규 의원 대표발의)(의안번호 2114450)
+
+[delib 14] trigger_speech_order=551 (speech_id=5888496274547354617)
+  발언자: 소위원장 김승남
+  구간: speech_order 551 ~ 587
+  심사 의사일정: 의사일정 제48항 (raw: [48])
+  bill_review (bill_pool 매칭 결과):
+    - 48. 지역농림어업 발전사업 협력 촉진에 관한 법률안(서삼석 의원 대표발의)(의안번호 2115087)
+
+[delib 15] trigger_speech_order=588 (speech_id=3727864685896293856)
+  발언자: 소위원장 김승남
+  구간: speech_order 588 ~ 594
+  심사 의사일정: 의사일정 제49항부터 제57항까지 (raw: [49, 50, 51, 52, 53, 54, 55, 56, 57])
+  bill_review (bill_pool 매칭 결과):
+    - 49. 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(윤준병 의원 대표발의)(의안번호 2105795)
+    - 50. 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(김선교 의원 대표발의)(의안번호 2107897)
+    - 51. 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(김승남 의원 대표발의)(의안번호 2108329)
+    - 52. 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(김승남 의원 대표발의)(의안번호 2108352)
+    - 53. 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(윤재갑 의원 대표발의)(의안번호 2107519)
+    - 54. 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(김승남 의원 대표발의)(의안번호 2111609)
+    - 55. 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(김승남 의원 대표발의)(의안번호 2111765)
+    - 56. 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(이개호 의원 대표발의)(의안번호 2113108)
+    - 57. 농수산물 유통 및 가격안정에 관한 법률 일부개정법률안(이주환 의원 대표발의)(의안번호 2114915)
+

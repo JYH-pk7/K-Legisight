@@ -14,12 +14,12 @@ import json
 import subprocess
 import argparse
 import statistics
+import importlib   # ✅ 추가
 
 # ✅ 상위 폴더 import 가능하도록 경로 추가
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from evaluation_model.compare_segments import compare_meeting
-from evaluation_model.answers.answers_kukbang import answer_segments
 
 
 def main():
@@ -34,6 +34,14 @@ def main():
     n_repeat = args.repeat
 
     print(f"\n🚀 {committee} 위원회 회의({meeting_id}) 반복 테스트 시작 ({n_repeat}회 반복)\n")
+
+    # ✅ 동적으로 정답 세트 import
+    try:
+        mod = importlib.import_module(f"evaluation_model.answers.answers_{committee}")
+        answer_segments = mod.answer_segments
+    except ModuleNotFoundError:
+        print(f"⚠️ 정답세트 파일을 찾을 수 없습니다: answers_{committee}.py")
+        return
 
     # ✅ 경로 설정
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
