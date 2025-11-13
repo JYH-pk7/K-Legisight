@@ -1,0 +1,762 @@
+[
+  {
+    "meeting_id": 50135,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 381,
+    "chasu": 1,
+    "meeting_date": "2020년8월26일(수)"
+  },
+  {
+    "meeting_id": 50174,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월9일(수)"
+  },
+  {
+    "meeting_id": 50184,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월10일(목)"
+  },
+  {
+    "meeting_id": 50223,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년9월21일(월)"
+  },
+  {
+    "meeting_id": 50230,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년9월22일(화)"
+  },
+  {
+    "meeting_id": 50389,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년11월5일(목)"
+  },
+  {
+    "meeting_id": 50423,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월11일(수)"
+  },
+  {
+    "meeting_id": 50471,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월17일(화)"
+  },
+  {
+    "meeting_id": 50535,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년11월24일(화)"
+  },
+  {
+    "meeting_id": 50589,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년12월1일(화)"
+  },
+  {
+    "meeting_id": 50711,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 383,
+    "chasu": 1,
+    "meeting_date": "2020년12월24일(목)"
+  },
+  {
+    "meeting_id": 50775,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월17일(수)"
+  },
+  {
+    "meeting_id": 50791,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월18일(목)"
+  },
+  {
+    "meeting_id": 50795,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 2,
+    "meeting_date": "2021년2월19일(금)"
+  },
+  {
+    "meeting_id": 50821,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 2,
+    "meeting_date": "2021년2월23일(화)"
+  },
+  {
+    "meeting_id": 50840,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 3,
+    "meeting_date": "2021년2월25일(목)"
+  },
+  {
+    "meeting_id": 50874,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월16일(화)"
+  },
+  {
+    "meeting_id": 50896,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 2,
+    "meeting_date": "2021년3월18일(목)"
+  },
+  {
+    "meeting_id": 50897,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월18일(목)"
+  },
+  {
+    "meeting_id": 50996,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월28일(수)"
+  },
+  {
+    "meeting_id": 51057,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월10일(목)"
+  },
+  {
+    "meeting_id": 51058,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월14일(월)"
+  },
+  {
+    "meeting_id": 51060,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 2,
+    "meeting_date": "2021년6월15일(화)"
+  },
+  {
+    "meeting_id": 51125,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월12일(월)"
+  },
+  {
+    "meeting_id": 51126,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월13일(화)"
+  },
+  {
+    "meeting_id": 51233,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 390,
+    "chasu": 1,
+    "meeting_date": "2021년8월30일(월)"
+  },
+  {
+    "meeting_id": 51263,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월9일(목)"
+  },
+  {
+    "meeting_id": 51281,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월14일(화)"
+  },
+  {
+    "meeting_id": 51292,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년9월15일(수)"
+  },
+  {
+    "meeting_id": 51637,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년12월3일(금)"
+  },
+  {
+    "meeting_id": 51702,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 392,
+    "chasu": 1,
+    "meeting_date": "2021년12월22일(수)"
+  },
+  {
+    "meeting_id": 51709,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 392,
+    "chasu": 1,
+    "meeting_date": "2021년12월29일(수)"
+  },
+  {
+    "meeting_id": 51898,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월16일(월)"
+  },
+  {
+    "meeting_id": 51924,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월17일(화)"
+  },
+  {
+    "meeting_id": 51927,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월18일(수)"
+  },
+  {
+    "meeting_id": 52119,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년9월6일(화)"
+  },
+  {
+    "meeting_id": 52157,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년9월21일(수)"
+  },
+  {
+    "meeting_id": 52164,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년9월22일(목)"
+  },
+  {
+    "meeting_id": 52328,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월8일(화)"
+  },
+  {
+    "meeting_id": 52337,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월9일(수)"
+  },
+  {
+    "meeting_id": 52380,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월14일(월)"
+  },
+  {
+    "meeting_id": 52393,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월15일(화)"
+  },
+  {
+    "meeting_id": 52406,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 4,
+    "meeting_date": "2022년11월16일(수)"
+  },
+  {
+    "meeting_id": 52560,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년12월2일(금)"
+  },
+  {
+    "meeting_id": 52604,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 4,
+    "meeting_date": "2022년12월9일(금)"
+  },
+  {
+    "meeting_id": 52675,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월9일(목)"
+  },
+  {
+    "meeting_id": 52696,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월14일(화)"
+  },
+  {
+    "meeting_id": 52713,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 2,
+    "meeting_date": "2023년2월16일(목)"
+  },
+  {
+    "meeting_id": 52719,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 2,
+    "meeting_date": "2023년2월17일(금)"
+  },
+  {
+    "meeting_id": 52768,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월14일(화)"
+  },
+  {
+    "meeting_id": 52775,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월16일(목)"
+  },
+  {
+    "meeting_id": 52788,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 2,
+    "meeting_date": "2023년3월21일(화)"
+  },
+  {
+    "meeting_id": 52806,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 2,
+    "meeting_date": "2023년3월22일(수)"
+  },
+  {
+    "meeting_id": 52819,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 3,
+    "meeting_date": "2023년3월28일(화)"
+  },
+  {
+    "meeting_id": 52831,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 3,
+    "meeting_date": "2023년3월30일(목)"
+  },
+  {
+    "meeting_id": 52858,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월11일(화)"
+  },
+  {
+    "meeting_id": 52874,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 2,
+    "meeting_date": "2023년4월18일(화)"
+  },
+  {
+    "meeting_id": 52891,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 3,
+    "meeting_date": "2023년4월25일(화)"
+  },
+  {
+    "meeting_id": 52905,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월26일(수)"
+  },
+  {
+    "meeting_id": 52907,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 406,
+    "chasu": 1,
+    "meeting_date": "2023년5월1일(월)"
+  },
+  {
+    "meeting_id": 52909,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 406,
+    "chasu": 2,
+    "meeting_date": "2023년5월3일(수)"
+  },
+  {
+    "meeting_id": 52912,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 406,
+    "chasu": 1,
+    "meeting_date": "2023년5월9일(화)"
+  },
+  {
+    "meeting_id": 52914,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 406,
+    "chasu": 3,
+    "meeting_date": "2023년5월10일(수)"
+  },
+  {
+    "meeting_id": 52927,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 406,
+    "chasu": 4,
+    "meeting_date": "2023년5월16일(화)"
+  },
+  {
+    "meeting_id": 52942,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 406,
+    "chasu": 5,
+    "meeting_date": "2023년5월22일(월)"
+  },
+  {
+    "meeting_id": 52954,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 406,
+    "chasu": 2,
+    "meeting_date": "2023년5월24일(수)"
+  },
+  {
+    "meeting_id": 52966,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 406,
+    "chasu": 6,
+    "meeting_date": "2023년5월30일(화)"
+  },
+  {
+    "meeting_id": 52977,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 1,
+    "meeting_date": "2023년6월13일(화)"
+  },
+  {
+    "meeting_id": 52983,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 1,
+    "meeting_date": "2023년6월15일(목)"
+  },
+  {
+    "meeting_id": 53013,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-청원심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 1,
+    "meeting_date": "2023년6월21일(수)"
+  },
+  {
+    "meeting_id": 53022,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 2,
+    "meeting_date": "2023년6월22일(목)"
+  },
+  {
+    "meeting_id": 53035,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 2,
+    "meeting_date": "2023년6월27일(화)"
+  },
+  {
+    "meeting_id": 53179,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월31일(목)"
+  },
+  {
+    "meeting_id": 53218,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월12일(화)"
+  },
+  {
+    "meeting_id": 53221,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-국토법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월13일(수)"
+  },
+  {
+    "meeting_id": 53244,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "국토교통위원회-교통법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 2,
+    "meeting_date": "2023년9월19일(화)"
+  }
+]

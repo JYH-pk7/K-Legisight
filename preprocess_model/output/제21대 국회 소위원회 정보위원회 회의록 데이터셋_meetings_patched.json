@@ -1,0 +1,72 @@
+[
+  {
+    "meeting_id": 51746,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "정보위원회-법안심사소위원회",
+    "number_of_meetings": 393,
+    "chasu": 1,
+    "meeting_date": "2022년2월4일(금)"
+  },
+  {
+    "meeting_id": 51758,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "정보위원회-법안심사소위원회",
+    "number_of_meetings": 393,
+    "chasu": 2,
+    "meeting_date": "2022년2월9일(수)"
+  },
+  {
+    "meeting_id": 52056,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "정보위원회-예산결산심사소위원회",
+    "number_of_meetings": 399,
+    "chasu": 1,
+    "meeting_date": "2022년8월23일(화)"
+  },
+  {
+    "meeting_id": 52463,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "정보위원회-예산결산심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월23일(수)"
+  },
+  {
+    "meeting_id": 52665,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "정보위원회-법안심사소위원회",
+    "number_of_meetings": 402,
+    "chasu": 1,
+    "meeting_date": "2023년1월31일(화)"
+  },
+  {
+    "meeting_id": 53121,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "정보위원회-법안심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월18일(금)"
+  },
+  {
+    "meeting_id": 53215,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "정보위원회-예산결산심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월6일(수)"
+  }
+]

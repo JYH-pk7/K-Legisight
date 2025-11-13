@@ -9,7 +9,7 @@ when explicit columns ('회수', '차수') are empty or missing.
 
 Usage:
   pip install pandas openpyxl
-  python xlsx_to_json_null.py --excel "C:\pythonproject\k_legisight\제21대(~2023년) 국회 소위원회 회의록 데이터셋\제21대 국회 소위원회 국방위원회 회의록 데이터셋.xlsx" --outdir "./output"
+  python xlsx_to_json_null.py --excel "C:\pythonproject\k_legisight\제21대(~2023년) 국회 소위원회 회의록 데이터셋\제21대 국회 소위원회 환경노동위원회 회의록 데이터셋.xlsx" --outdir "./output"
 
 Outputs:
   <base>_speeches.json

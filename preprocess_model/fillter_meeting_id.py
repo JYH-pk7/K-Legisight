@@ -2,8 +2,8 @@ import json
 import os
 
 def main():
-    input_file = r"C:\pythonproject\k_legisight\preprocess_model\output\제21대 국회 소위원회 국방위원회 회의록 데이터셋_speeches_patched.json"
-    target_meeting_id = 52737     # ✅ 원하는 meeting_id로 변경
+    input_file = r"C:\pythonproject\k_legisight\preprocess_model\output\제21대 국회 소위원회 환경노동위원회 회의록 데이터셋_speeches_patched.json"
+    target_meeting_id = 51889     # ✅ 원하는 meeting_id로 변경
 
     # ✅ 저장 폴더 지정
     save_dir = r"C:\pythonproject\k_legisight\preprocess_model\meeting_number_filltered"
