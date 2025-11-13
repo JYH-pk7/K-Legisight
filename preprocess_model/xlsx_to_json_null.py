@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-xlsx_to_json_parliament2.py
+xlsx_to_json_null.py
 ---------------------------
 Improved extraction for Meetings: derives `number_of_meetings` (회수) and `chasu` (차수)
 by scanning multiple columns (회의록구분/회의구분/위원회/기타 정보/안건 등) with regex
@@ -9,7 +9,7 @@ when explicit columns ('회수', '차수') are empty or missing.
 
 Usage:
   pip install pandas openpyxl
-  python xlsx_to_json_null.py --excel "/Users/mac/vscode/k_legisight/제21대(~2023년) 국회 소위원회 회의록 데이터셋/제21대 국회 소위원회 정무위원회 회의록 데이터셋.xlsx" --outdir "./output"
+  python xlsx_to_json_null.py --excel "C:\pythonproject\k_legisight\제21대(~2023년) 국회 소위원회 회의록 데이터셋\제21대 국회 소위원회 국방위원회 회의록 데이터셋.xlsx" --outdir "./output"
 
 Outputs:
   <base>_speeches.json

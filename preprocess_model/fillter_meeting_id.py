@@ -2,12 +2,16 @@ import json
 import os
 
 def main():
-    input_file = "제21대 국회 소위원회 법제사법위원회 회의록 데이터셋_speeches.json"  # 원본 파일
-    target_meeting_id = 52583     # ✅ 원하는 meeting_id로 변경
+    input_file = r"C:\pythonproject\k_legisight\preprocess_model\output\제21대 국회 소위원회 국방위원회 회의록 데이터셋_speeches_patched.json"
+    target_meeting_id = 52737     # ✅ 원하는 meeting_id로 변경
+
+    # ✅ 저장 폴더 지정
+    save_dir = r"C:\pythonproject\k_legisight\preprocess_model\meeting_number_filltered"
+    os.makedirs(save_dir, exist_ok=True)  # 폴더 없으면 자동 생성
 
     # 1. 출력 파일 이름 자동 생성
     file_name = f"speeches_meeting_{target_meeting_id}.json"
-    output_file = os.path.join(os.getcwd(), file_name)
+    output_file = os.path.join(save_dir, file_name)
 
     # 2. JSON 파일 읽기
     with open(input_file, "r", encoding="utf-8") as f:
@@ -20,7 +24,7 @@ def main():
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(filtered, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ meeting_id={target_meeting_id} 에 해당하는 {len(filtered)}개 항목이 '{file_name}' 파일로 저장되었습니다.")
+    print(f"✅ meeting_id={target_meeting_id} 에 해당하는 {len(filtered)}개 항목이 '{output_file}' 파일로 저장되었습니다.")
 
 if __name__ == "__main__":
     main()
