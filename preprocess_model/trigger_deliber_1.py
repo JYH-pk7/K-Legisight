@@ -33,7 +33,7 @@ MODEL = "gpt-oss:120b-cloud"
 TEMPERATURE = 0.05
 TIMEOUT = 700
 
-MEETING_ID = 51889  # 회의 번호만 바꿔가며 사용
+MEETING_ID = 50597  # 회의 번호만 바꿔가며 사용
 
 
 # =========================================
