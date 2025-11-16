@@ -1,0 +1,512 @@
+[
+  {
+    "meeting_id": 50176,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월9일(수)"
+  },
+  {
+    "meeting_id": 50177,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월10일(목)"
+  },
+  {
+    "meeting_id": 50258,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년9월24일(목)"
+  },
+  {
+    "meeting_id": 50259,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년9월23일(수)"
+  },
+  {
+    "meeting_id": 50410,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년11월10일(화)"
+  },
+  {
+    "meeting_id": 50432,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월11일(수)"
+  },
+  {
+    "meeting_id": 50441,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월12일(목)"
+  },
+  {
+    "meeting_id": 50473,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월17일(화)"
+  },
+  {
+    "meeting_id": 50549,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월25일(수)"
+  },
+  {
+    "meeting_id": 50550,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년11월24일(화)"
+  },
+  {
+    "meeting_id": 50756,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월4일(목)"
+  },
+  {
+    "meeting_id": 50771,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 2,
+    "meeting_date": "2021년2월16일(화)"
+  },
+  {
+    "meeting_id": 50834,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월19일(금)"
+  },
+  {
+    "meeting_id": 50837,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 2,
+    "meeting_date": "2021년2월23일(화)"
+  },
+  {
+    "meeting_id": 50854,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월4일(목)"
+  },
+  {
+    "meeting_id": 50907,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월17일(수)"
+  },
+  {
+    "meeting_id": 50913,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 2,
+    "meeting_date": "2021년3월18일(목)"
+  },
+  {
+    "meeting_id": 50926,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월23일(화)"
+  },
+  {
+    "meeting_id": 50954,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월20일(화)"
+  },
+  {
+    "meeting_id": 51007,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월27일(화)"
+  },
+  {
+    "meeting_id": 51091,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월23일(수)"
+  },
+  {
+    "meeting_id": 51269,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월10일(금)"
+  },
+  {
+    "meeting_id": 51286,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월14일(화)"
+  },
+  {
+    "meeting_id": 51297,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월16일(목)"
+  },
+  {
+    "meeting_id": 51310,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년9월27일(월)"
+  },
+  {
+    "meeting_id": 51322,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년9월28일(화)"
+  },
+  {
+    "meeting_id": 51465,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월10일(수)"
+  },
+  {
+    "meeting_id": 51482,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월11일(목)"
+  },
+  {
+    "meeting_id": 51593,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월25일(목)"
+  },
+  {
+    "meeting_id": 51606,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월30일(화)"
+  },
+  {
+    "meeting_id": 51807,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 395,
+    "chasu": 1,
+    "meeting_date": "2022년4월14일(목)"
+  },
+  {
+    "meeting_id": 51825,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 395,
+    "chasu": 1,
+    "meeting_date": "2022년4월21일(목)"
+  },
+  {
+    "meeting_id": 51919,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월17일(화)"
+  },
+  {
+    "meeting_id": 52066,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 399,
+    "chasu": 1,
+    "meeting_date": "2022년8월24일(수)"
+  },
+  {
+    "meeting_id": 52344,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월8일(화)"
+  },
+  {
+    "meeting_id": 52356,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월9일(수)"
+  },
+  {
+    "meeting_id": 52357,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월10일(목)"
+  },
+  {
+    "meeting_id": 52389,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월15일(화)"
+  },
+  {
+    "meeting_id": 52507,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월24일(목)"
+  },
+  {
+    "meeting_id": 52530,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월29일(화)"
+  },
+  {
+    "meeting_id": 52618,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 401,
+    "chasu": 1,
+    "meeting_date": "2022년12월15일(목)"
+  },
+  {
+    "meeting_id": 52624,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 401,
+    "chasu": 1,
+    "meeting_date": "2022년12월20일(화)"
+  },
+  {
+    "meeting_id": 52686,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월13일(월)"
+  },
+  {
+    "meeting_id": 52693,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월14일(화)"
+  },
+  {
+    "meeting_id": 52766,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월15일(수)"
+  },
+  {
+    "meeting_id": 52771,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월15일(수)"
+  },
+  {
+    "meeting_id": 53014,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 1,
+    "meeting_date": "2023년6월21일(수)"
+  },
+  {
+    "meeting_id": 53021,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 2,
+    "meeting_date": "2023년6월22일(목)"
+  },
+  {
+    "meeting_id": 53196,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-예산결산심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월5일(화)"
+  },
+  {
+    "meeting_id": 53251,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-과학기술원자력법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월21일(목)"
+  },
+  {
+    "meeting_id": 53260,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "과학기술정보방송통신위원회-정보통신방송법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월20일(수)"
+  }
+]

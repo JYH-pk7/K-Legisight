@@ -1,0 +1,832 @@
+[
+  {
+    "meeting_id": 50148,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 381,
+    "chasu": 1,
+    "meeting_date": "2020년8월31일(월)"
+  },
+  {
+    "meeting_id": 50214,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월18일(금)"
+  },
+  {
+    "meeting_id": 50254,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월22일(화)"
+  },
+  {
+    "meeting_id": 50367,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월4일(수)"
+  },
+  {
+    "meeting_id": 50385,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월5일(목)"
+  },
+  {
+    "meeting_id": 50426,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년11월10일(화)"
+  },
+  {
+    "meeting_id": 50447,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월11일(수)"
+  },
+  {
+    "meeting_id": 50452,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월12일(목)"
+  },
+  {
+    "meeting_id": 50475,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월13일(금)"
+  },
+  {
+    "meeting_id": 50486,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월16일(월)"
+  },
+  {
+    "meeting_id": 50503,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년11월18일(수)"
+  },
+  {
+    "meeting_id": 50512,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년11월17일(화)"
+  },
+  {
+    "meeting_id": 50520,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 382,
+    "chasu": 5,
+    "meeting_date": "2020년11월20일(금)"
+  },
+  {
+    "meeting_id": 50533,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 5,
+    "meeting_date": "2020년11월19일(목)"
+  },
+  {
+    "meeting_id": 50539,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 6,
+    "meeting_date": "2020년11월20일(금)"
+  },
+  {
+    "meeting_id": 50553,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 7,
+    "meeting_date": "2020년11월24일(화)"
+  },
+  {
+    "meeting_id": 50559,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 382,
+    "chasu": 6,
+    "meeting_date": "2020년11월23일(월)"
+  },
+  {
+    "meeting_id": 50571,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 9,
+    "meeting_date": "2020년11월27일(금)"
+  },
+  {
+    "meeting_id": 50582,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 8,
+    "meeting_date": "2020년11월26일(목)"
+  },
+  {
+    "meeting_id": 50593,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년11월30일(월)"
+  },
+  {
+    "meeting_id": 50623,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 382,
+    "chasu": 10,
+    "meeting_date": "2020년11월30일(월)"
+  },
+  {
+    "meeting_id": 50776,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월17일(수)"
+  },
+  {
+    "meeting_id": 50782,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월18일(목)"
+  },
+  {
+    "meeting_id": 50784,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 384,
+    "chasu": 2,
+    "meeting_date": "2021년2월19일(금)"
+  },
+  {
+    "meeting_id": 50879,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월16일(화)"
+  },
+  {
+    "meeting_id": 50901,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월18일(목)"
+  },
+  {
+    "meeting_id": 50905,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 2,
+    "meeting_date": "2021년3월19일(금)"
+  },
+  {
+    "meeting_id": 50908,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월17일(수)"
+  },
+  {
+    "meeting_id": 50963,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월22일(목)"
+  },
+  {
+    "meeting_id": 50967,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월22일(목)"
+  },
+  {
+    "meeting_id": 51086,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월23일(수)"
+  },
+  {
+    "meeting_id": 51096,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 388,
+    "chasu": 2,
+    "meeting_date": "2021년6월24일(목)"
+  },
+  {
+    "meeting_id": 51097,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월24일(목)"
+  },
+  {
+    "meeting_id": 51136,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월13일(화)"
+  },
+  {
+    "meeting_id": 51139,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월14일(수)"
+  },
+  {
+    "meeting_id": 51153,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월15일(목)"
+  },
+  {
+    "meeting_id": 51154,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 389,
+    "chasu": 2,
+    "meeting_date": "2021년7월15일(목)"
+  },
+  {
+    "meeting_id": 51180,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 390,
+    "chasu": 1,
+    "meeting_date": "2021년8월17일(화)"
+  },
+  {
+    "meeting_id": 51194,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 390,
+    "chasu": 2,
+    "meeting_date": "2021년8월19일(목)"
+  },
+  {
+    "meeting_id": 51196,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 390,
+    "chasu": 1,
+    "meeting_date": "2021년8월18일(수)"
+  },
+  {
+    "meeting_id": 51453,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년11월9일(화)"
+  },
+  {
+    "meeting_id": 51462,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월11일(목)"
+  },
+  {
+    "meeting_id": 51471,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월10일(수)"
+  },
+  {
+    "meeting_id": 51504,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년11월15일(월)"
+  },
+  {
+    "meeting_id": 51505,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년11월16일(화)"
+  },
+  {
+    "meeting_id": 51511,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월17일(수)"
+  },
+  {
+    "meeting_id": 51527,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월18일(목)"
+  },
+  {
+    "meeting_id": 51532,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월19일(금)"
+  },
+  {
+    "meeting_id": 51545,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 391,
+    "chasu": 4,
+    "meeting_date": "2021년11월22일(월)"
+  },
+  {
+    "meeting_id": 51559,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월23일(화)"
+  },
+  {
+    "meeting_id": 51578,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 391,
+    "chasu": 5,
+    "meeting_date": "2021년11월24일(수)"
+  },
+  {
+    "meeting_id": 51591,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 391,
+    "chasu": 6,
+    "meeting_date": "2021년11월26일(금)"
+  },
+  {
+    "meeting_id": 51598,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 4,
+    "meeting_date": "2021년11월29일(월)"
+  },
+  {
+    "meeting_id": 51614,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 391,
+    "chasu": 4,
+    "meeting_date": "2021년11월25일(목)"
+  },
+  {
+    "meeting_id": 51645,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 391,
+    "chasu": 7,
+    "meeting_date": "2021년11월29일(월)"
+  },
+  {
+    "meeting_id": 51752,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 393,
+    "chasu": 1,
+    "meeting_date": "2022년2월8일(화)"
+  },
+  {
+    "meeting_id": 51917,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월17일(화)"
+  },
+  {
+    "meeting_id": 52446,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월21일(월)"
+  },
+  {
+    "meeting_id": 52448,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월21일(월)"
+  },
+  {
+    "meeting_id": 52451,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월22일(화)"
+  },
+  {
+    "meeting_id": 52466,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월22일(화)"
+  },
+  {
+    "meeting_id": 52478,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월23일(수)"
+  },
+  {
+    "meeting_id": 52505,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월24일(목)"
+  },
+  {
+    "meeting_id": 52547,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 400,
+    "chasu": 4,
+    "meeting_date": "2022년11월30일(수)"
+  },
+  {
+    "meeting_id": 52552,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 400,
+    "chasu": 5,
+    "meeting_date": "2022년12월1일(목)"
+  },
+  {
+    "meeting_id": 52566,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 400,
+    "chasu": 6,
+    "meeting_date": "2022년12월2일(금)"
+  },
+  {
+    "meeting_id": 52572,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년12월5일(월)"
+  },
+  {
+    "meeting_id": 52628,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 401,
+    "chasu": 1,
+    "meeting_date": "2022년12월26일(월)"
+  },
+  {
+    "meeting_id": 52632,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 401,
+    "chasu": 1,
+    "meeting_date": "2022년12월26일(월)"
+  },
+  {
+    "meeting_id": 52697,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월14일(화)"
+  },
+  {
+    "meeting_id": 52709,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월15일(수)"
+  },
+  {
+    "meeting_id": 52770,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월15일(수)"
+  },
+  {
+    "meeting_id": 52774,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-조세소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월16일(목)"
+  },
+  {
+    "meeting_id": 52793,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 404,
+    "chasu": 2,
+    "meeting_date": "2023년3월21일(화)"
+  },
+  {
+    "meeting_id": 52859,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월11일(화)"
+  },
+  {
+    "meeting_id": 52864,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 405,
+    "chasu": 2,
+    "meeting_date": "2023년4월12일(수)"
+  },
+  {
+    "meeting_id": 52920,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 406,
+    "chasu": 1,
+    "meeting_date": "2023년5월15일(월)"
+  },
+  {
+    "meeting_id": 52923,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 406,
+    "chasu": 2,
+    "meeting_date": "2023년5월16일(화)"
+  },
+  {
+    "meeting_id": 53008,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 407,
+    "chasu": 1,
+    "meeting_date": "2023년6월20일(화)"
+  },
+  {
+    "meeting_id": 53042,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 407,
+    "chasu": 2,
+    "meeting_date": "2023년6월27일(화)"
+  },
+  {
+    "meeting_id": 53050,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 407,
+    "chasu": 3,
+    "meeting_date": "2023년7월4일(화)"
+  },
+  {
+    "meeting_id": 53139,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-예산결산기금심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월23일(수)"
+  },
+  {
+    "meeting_id": 53140,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "기획재정위원회-경제재정소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월24일(목)"
+  }
+]

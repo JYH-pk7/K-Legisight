@@ -1,0 +1,532 @@
+[
+  {
+    "meeting_id": 50387,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년11월5일(목)"
+  },
+  {
+    "meeting_id": 50415,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월10일(화)"
+  },
+  {
+    "meeting_id": 50499,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월19일(목)"
+  },
+  {
+    "meeting_id": 50518,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년11월18일(수)"
+  },
+  {
+    "meeting_id": 50546,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년11월24일(화)"
+  },
+  {
+    "meeting_id": 50567,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월25일(수)"
+  },
+  {
+    "meeting_id": 50569,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월26일(목)"
+  },
+  {
+    "meeting_id": 50816,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월18일(목)"
+  },
+  {
+    "meeting_id": 50819,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월19일(금)"
+  },
+  {
+    "meeting_id": 50841,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 2,
+    "meeting_date": "2021년2월26일(금)"
+  },
+  {
+    "meeting_id": 50842,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 384,
+    "chasu": 2,
+    "meeting_date": "2021년2월25일(목)"
+  },
+  {
+    "meeting_id": 50902,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월17일(수)"
+  },
+  {
+    "meeting_id": 50995,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월27일(화)"
+  },
+  {
+    "meeting_id": 51009,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월28일(수)"
+  },
+  {
+    "meeting_id": 51038,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 387,
+    "chasu": 1,
+    "meeting_date": "2021년5월21일(금)"
+  },
+  {
+    "meeting_id": 51046,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 387,
+    "chasu": 2,
+    "meeting_date": "2021년5월26일(수)"
+  },
+  {
+    "meeting_id": 51047,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 387,
+    "chasu": 1,
+    "meeting_date": "2021년5월25일(화)"
+  },
+  {
+    "meeting_id": 51075,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월17일(목)"
+  },
+  {
+    "meeting_id": 51089,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월23일(수)"
+  },
+  {
+    "meeting_id": 51147,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월13일(화)"
+  },
+  {
+    "meeting_id": 51207,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 390,
+    "chasu": 1,
+    "meeting_date": "2021년8월23일(월)"
+  },
+  {
+    "meeting_id": 51216,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 390,
+    "chasu": 1,
+    "meeting_date": "2021년8월24일(화)"
+  },
+  {
+    "meeting_id": 51485,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년11월12일(금)"
+  },
+  {
+    "meeting_id": 51574,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년11월23일(화)"
+  },
+  {
+    "meeting_id": 51580,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월24일(수)"
+  },
+  {
+    "meeting_id": 51587,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년11월24일(수)"
+  },
+  {
+    "meeting_id": 51597,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월25일(목)"
+  },
+  {
+    "meeting_id": 51737,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 392,
+    "chasu": 1,
+    "meeting_date": "2022년1월10일(월)"
+  },
+  {
+    "meeting_id": 51757,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 393,
+    "chasu": 1,
+    "meeting_date": "2022년2월7일(월)"
+  },
+  {
+    "meeting_id": 51759,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 393,
+    "chasu": 1,
+    "meeting_date": "2022년2월10일(목)"
+  },
+  {
+    "meeting_id": 51844,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 395,
+    "chasu": 1,
+    "meeting_date": "2022년4월26일(화)"
+  },
+  {
+    "meeting_id": 51849,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 395,
+    "chasu": 1,
+    "meeting_date": "2022년4월27일(수)"
+  },
+  {
+    "meeting_id": 51883,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월9일(월)"
+  },
+  {
+    "meeting_id": 51918,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월17일(화)"
+  },
+  {
+    "meeting_id": 52111,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 399,
+    "chasu": 1,
+    "meeting_date": "2022년8월31일(수)"
+  },
+  {
+    "meeting_id": 52369,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월10일(목)"
+  },
+  {
+    "meeting_id": 52376,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월9일(수)"
+  },
+  {
+    "meeting_id": 52586,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년12월6일(화)"
+  },
+  {
+    "meeting_id": 52593,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년12월7일(수)"
+  },
+  {
+    "meeting_id": 52688,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월13일(월)"
+  },
+  {
+    "meeting_id": 52706,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월14일(화)"
+  },
+  {
+    "meeting_id": 52804,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월21일(화)"
+  },
+  {
+    "meeting_id": 52805,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월22일(수)"
+  },
+  {
+    "meeting_id": 52875,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-청원심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월18일(화)"
+  },
+  {
+    "meeting_id": 52896,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월25일(화)"
+  },
+  {
+    "meeting_id": 52902,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월26일(수)"
+  },
+  {
+    "meeting_id": 53038,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 1,
+    "meeting_date": "2023년6월27일(화)"
+  },
+  {
+    "meeting_id": 53039,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 407,
+    "chasu": 1,
+    "meeting_date": "2023년6월28일(수)"
+  },
+  {
+    "meeting_id": 53125,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-예산결산심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월22일(화)"
+  },
+  {
+    "meeting_id": 53133,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월23일(수)"
+  },
+  {
+    "meeting_id": 53141,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월24일(목)"
+  },
+  {
+    "meeting_id": 53246,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제2법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월19일(화)"
+  },
+  {
+    "meeting_id": 53263,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "보건복지위원회-제1법안심사소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년9월20일(수)"
+  }
+]

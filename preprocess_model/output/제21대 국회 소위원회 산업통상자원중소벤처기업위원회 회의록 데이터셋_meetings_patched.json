@@ -1,0 +1,742 @@
+[
+  {
+    "meeting_id": 50142,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산·결산소위원회",
+    "number_of_meetings": 381,
+    "chasu": 1,
+    "meeting_date": "2020년8월26일(수)"
+  },
+  {
+    "meeting_id": 50173,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월9일(수)"
+  },
+  {
+    "meeting_id": 50183,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월10일(목)"
+  },
+  {
+    "meeting_id": 50231,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년9월22일(화)"
+  },
+  {
+    "meeting_id": 50244,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년9월23일(수)"
+  },
+  {
+    "meeting_id": 50474,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월17일(화)"
+  },
+  {
+    "meeting_id": 50477,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월18일(수)"
+  },
+  {
+    "meeting_id": 50555,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년11월26일(목)"
+  },
+  {
+    "meeting_id": 50560,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 382,
+    "chasu": 4,
+    "meeting_date": "2020년11월26일(목)"
+  },
+  {
+    "meeting_id": 50732,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 383,
+    "chasu": 1,
+    "meeting_date": "2021년1월19일(화)"
+  },
+  {
+    "meeting_id": 50754,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 384,
+    "chasu": 1,
+    "meeting_date": "2021년2월4일(목)"
+  },
+  {
+    "meeting_id": 50802,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 384,
+    "chasu": 2,
+    "meeting_date": "2021년2월22일(월)"
+  },
+  {
+    "meeting_id": 50857,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월4일(목)"
+  },
+  {
+    "meeting_id": 50862,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월11일(목)"
+  },
+  {
+    "meeting_id": 50873,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 385,
+    "chasu": 2,
+    "meeting_date": "2021년3월16일(화)"
+  },
+  {
+    "meeting_id": 50885,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 385,
+    "chasu": 2,
+    "meeting_date": "2021년3월17일(수)"
+  },
+  {
+    "meeting_id": 50972,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 386,
+    "chasu": 1,
+    "meeting_date": "2021년4월22일(목)"
+  },
+  {
+    "meeting_id": 51022,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 387,
+    "chasu": 1,
+    "meeting_date": "2021년5월11일(화)"
+  },
+  {
+    "meeting_id": 51027,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 387,
+    "chasu": 1,
+    "meeting_date": "2021년5월12일(수)"
+  },
+  {
+    "meeting_id": 51033,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 387,
+    "chasu": 2,
+    "meeting_date": "2021년5월20일(목)"
+  },
+  {
+    "meeting_id": 51053,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 388,
+    "chasu": 1,
+    "meeting_date": "2021년6월8일(화)"
+  },
+  {
+    "meeting_id": 51069,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 388,
+    "chasu": 2,
+    "meeting_date": "2021년6월16일(수)"
+  },
+  {
+    "meeting_id": 51173,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월29일(목)"
+  },
+  {
+    "meeting_id": 51259,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월8일(수)"
+  },
+  {
+    "meeting_id": 51260,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년9월8일(수)"
+  },
+  {
+    "meeting_id": 51554,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월23일(화)"
+  },
+  {
+    "meeting_id": 51572,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월24일(수)"
+  },
+  {
+    "meeting_id": 51599,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월30일(화)"
+  },
+  {
+    "meeting_id": 51612,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년12월1일(수)"
+  },
+  {
+    "meeting_id": 51721,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 392,
+    "chasu": 1,
+    "meeting_date": "2022년1월5일(수)"
+  },
+  {
+    "meeting_id": 51871,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월3일(화)"
+  },
+  {
+    "meeting_id": 51879,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월4일(수)"
+  },
+  {
+    "meeting_id": 51881,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 397,
+    "chasu": 2,
+    "meeting_date": "2022년5월4일(수)"
+  },
+  {
+    "meeting_id": 51931,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 382,
+    "chasu": 1,
+    "meeting_date": "2020년9월16일(수)"
+  },
+  {
+    "meeting_id": 51932,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 385,
+    "chasu": 1,
+    "meeting_date": "2021년3월15일(월)"
+  },
+  {
+    "meeting_id": 51933,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 382,
+    "chasu": 2,
+    "meeting_date": "2020년11월2일(월)"
+  },
+  {
+    "meeting_id": 51934,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 382,
+    "chasu": 3,
+    "meeting_date": "2020년11월3일(화)"
+  },
+  {
+    "meeting_id": 51935,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 390,
+    "chasu": 1,
+    "meeting_date": "2021년8월25일(수)"
+  },
+  {
+    "meeting_id": 51936,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 391,
+    "chasu": 1,
+    "meeting_date": "2021년11월9일(화)"
+  },
+  {
+    "meeting_id": 51937,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 391,
+    "chasu": 2,
+    "meeting_date": "2021년11월10일(수)"
+  },
+  {
+    "meeting_id": 51938,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 391,
+    "chasu": 3,
+    "meeting_date": "2021년11월11일(목)"
+  },
+  {
+    "meeting_id": 51939,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 393,
+    "chasu": 1,
+    "meeting_date": "2022년2월7일(월)"
+  },
+  {
+    "meeting_id": 51940,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 389,
+    "chasu": 1,
+    "meeting_date": "2021년7월14일(수)"
+  },
+  {
+    "meeting_id": 51941,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 397,
+    "chasu": 1,
+    "meeting_date": "2022년5월19일(목)"
+  },
+  {
+    "meeting_id": 52082,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 399,
+    "chasu": 1,
+    "meeting_date": "2022년8월23일(화)"
+  },
+  {
+    "meeting_id": 52117,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년9월5일(월)"
+  },
+  {
+    "meeting_id": 52122,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년9월6일(화)"
+  },
+  {
+    "meeting_id": 52148,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년9월20일(화)"
+  },
+  {
+    "meeting_id": 52154,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년9월21일(수)"
+  },
+  {
+    "meeting_id": 52371,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 400,
+    "chasu": 1,
+    "meeting_date": "2022년11월14일(월)"
+  },
+  {
+    "meeting_id": 52408,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 400,
+    "chasu": 2,
+    "meeting_date": "2022년11월15일(화)"
+  },
+  {
+    "meeting_id": 52460,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월22일(화)"
+  },
+  {
+    "meeting_id": 52470,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 400,
+    "chasu": 3,
+    "meeting_date": "2022년11월23일(수)"
+  },
+  {
+    "meeting_id": 52541,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 400,
+    "chasu": 4,
+    "meeting_date": "2022년11월29일(화)"
+  },
+  {
+    "meeting_id": 52542,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 400,
+    "chasu": 4,
+    "meeting_date": "2022년11월30일(수)"
+  },
+  {
+    "meeting_id": 52620,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 401,
+    "chasu": 1,
+    "meeting_date": "2022년12월15일(목)"
+  },
+  {
+    "meeting_id": 52689,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월13일(월)"
+  },
+  {
+    "meeting_id": 52690,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-청원소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월14일(화)"
+  },
+  {
+    "meeting_id": 52722,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 403,
+    "chasu": 1,
+    "meeting_date": "2023년2월20일(월)"
+  },
+  {
+    "meeting_id": 52798,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월20일(월)"
+  },
+  {
+    "meeting_id": 52799,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 404,
+    "chasu": 1,
+    "meeting_date": "2023년3월21일(화)"
+  },
+  {
+    "meeting_id": 52887,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월20일(목)"
+  },
+  {
+    "meeting_id": 52894,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 405,
+    "chasu": 1,
+    "meeting_date": "2023년4월25일(화)"
+  },
+  {
+    "meeting_id": 52925,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 406,
+    "chasu": 1,
+    "meeting_date": "2023년5월16일(화)"
+  },
+  {
+    "meeting_id": 52930,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 406,
+    "chasu": 1,
+    "meeting_date": "2023년5월17일(수)"
+  },
+  {
+    "meeting_id": 52960,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 406,
+    "chasu": 2,
+    "meeting_date": "2023년5월24일(수)"
+  },
+  {
+    "meeting_id": 53063,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 408,
+    "chasu": 1,
+    "meeting_date": "2023년7월12일(수)"
+  },
+  {
+    "meeting_id": 53070,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 408,
+    "chasu": 1,
+    "meeting_date": "2023년7월13일(목)"
+  },
+  {
+    "meeting_id": 53119,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월21일(월)"
+  },
+  {
+    "meeting_id": 53146,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-예산결산소위원회",
+    "number_of_meetings": 409,
+    "chasu": 1,
+    "meeting_date": "2023년8월24일(목)"
+  },
+  {
+    "meeting_id": 53504,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년11월21일(화)"
+  },
+  {
+    "meeting_id": 53508,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 410,
+    "chasu": 1,
+    "meeting_date": "2023년11월22일(수)"
+  },
+  {
+    "meeting_id": 53604,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-산업통상자원특허소위원회",
+    "number_of_meetings": 410,
+    "chasu": 3,
+    "meeting_date": "2023년12월5일(화)"
+  },
+  {
+    "meeting_id": 53617,
+    "meeting_category": "국회",
+    "deasu": "21",
+    "meeting_specification": "소위원회",
+    "commitee": "산업통상자원중소벤처기업위원회-중소벤처기업소위원회",
+    "number_of_meetings": 410,
+    "chasu": 3,
+    "meeting_date": "2023년12월6일(수)"
+  }
+]
