@@ -20,3 +20,6 @@ Thumbs.db
 # --- Data files ---
 *.xlsx
 *.xls
+
+#
+preprocess_model/output/
