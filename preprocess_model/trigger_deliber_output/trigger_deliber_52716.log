@@ -1,408 +1,65 @@
-=== Trigger Deliber Log (meeting_id=52716) 2025-11-13 22:21:21.235704 ===
+=== Trigger Deliber Log (meeting_id=52716) 2025-11-18 00:16:42.777977 ===
 
 총 발언 수: 430
 bill_pool 크기(의사일정 항 개수): 22
 
-소위원장 발언 수: 132
+bill_pool 텍스트 저장: C:\pythonproject\k_legisight\preprocess_model\trigger_deliber_output\bill_pool_52716.txt
+
+소위원장 발언 수(전체): 132
+소위원장 트리거 후보 발언 수(키워드 필터): 16
+
+소위원장 트리거 후보 TXT 저장: C:\pythonproject\k_legisight\preprocess_model\trigger_deliber_output\chair_trigger_candidates_52716.txt
 
 
-=== 소위원장 트리거 판별 결과 ===
+=== 소위원장 트리거 판별 결과 (후보 발언 기준) ===
 
-- speech_order=1, tf_trigger=False, agenda_items=[]
+- speech_order=1, tf_trigger=True, agenda_items=[]
   발언 요약: 의석을 정돈해 주시기 바랍니다.   성원이 되었으므로 제403회 국회(임시회) 제1차 여성가족위원회 법안심사소위원회를 개의하겠습니다.   코로나19 집단감염 방지를 위하여 회의가 종료되는 시점까지 방역 수칙을 준수해 주실 것을 부탁드립니다.   오늘은 2023년도 첫 
 
 - speech_order=2, tf_trigger=True, agenda_items=[1]
   발언 요약: 의사일정 제1항 집행유예 선고에 관한 결격사유 명확화를 위한 가정폭력방지 및 피해자보호 등에 관한 법률 등 2개 법률의 일부개정에 관한 법률안을 상정합니다.   먼저 제1항과 관련해서 수석전문위원께서 주요 내용을 설명해 주시기 바랍니다.
 
-- speech_order=4, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 정부 측 의견 말씀해 주시기 바랍니다.
-
-- speech_order=6, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들께서 말씀해 주시기 바랍니다.    (「이의 없습니다」 하는 위원 있음)   위원님들 다 이의 없으신가요?    (「예」 하는 위원 있음)   더 이상 의견이 없으시면 의결하도록 하겠습니다.   제1항은 원안대로 의결하고자 하는데 이의 있으십니까?    
-
 - speech_order=7, tf_trigger=True, agenda_items=[2]
   발언 요약: 의사일정 제2항 한부모가족지원법 일부개정법률안을 상정합니다.   그러면 수석전문위원께서 주요 내용을 설명해 주시기 바랍니다.
-
-- speech_order=9, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
-
-- speech_order=11, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들께서 말씀해 주시기 바랍니다.
-
-- speech_order=13, tf_trigger=False, agenda_items=[]
-  발언 요약: 전주혜 위원님께서……
-
-- speech_order=15, tf_trigger=False, agenda_items=[]
-  발언 요약: 김한규 위원님께서는 특별한 의견이 있으신지……
-
-- speech_order=17, tf_trigger=False, agenda_items=[]
-  발언 요약: 우리가 생각했던 것보다 부의 수요가 상당히 있더라고요, 그 가족이.
-
-- speech_order=21, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 제2항은 지금까지 논의한 바와 같이 수정한 부분은 수정한 대로, 기타 부분은 원안대로 의결하고자 하는데 이의 있으신가요?    (「없습니다」 하는 위원 있음)   가결되었음을 선포합니다.
 
 - speech_order=22, tf_trigger=True, agenda_items=[3]
   발언 요약: 의사일정 제3항 아이돌봄 지원법 일부개정법률안을 상정합니다.  수석전문위원께서 주요 내용을 설명해 주시기 바랍니다.
 
-- speech_order=24, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
-
-- speech_order=26, tf_trigger=False, agenda_items=[]
-  발언 요약: 위원님들께서 말씀해 주실 차례인데 이 법안을 대표발의하신 조은희 의원께서 법안소위 위원으로 계시기 때문에 조은희 위원께 수정의견에 대해서 어떻게 생각하시는지 여쭤보는 것이 타당할 것 같은데……
-
-- speech_order=28, tf_trigger=False, agenda_items=[]
-  발언 요약: 수정의견에 대해서 다 동의하십니까?
-
-- speech_order=30, tf_trigger=False, agenda_items=[]
-  발언 요약: 몇 가지가 있었지요. 25조 2항 본문하고 5항하고…… 수정의견이 지금 두세 가지가 있는 것이지요? 그것 하나하나 다 동의하시는 것으로.
-
-- speech_order=32, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 그것을 전제로 해서 다른 위원님들께서 의견 주십시오.  전주혜 위원님, 말씀하십시오.
-
-- speech_order=48, tf_trigger=False, agenda_items=[]
-  발언 요약: 다른 위원님들 의견 없으십니까?
-
-- speech_order=58, tf_trigger=False, agenda_items=[]
-  발언 요약: 더 이상 논의하실 분 없으십니까?    (「없습니다」 하는 위원 있음)   그러면 제3항은 지금까지 논의한 바와 같이 수정한 부분은 수정한 대로, 기타 부분은 원안대로 의결하고자 하는 데 이의 있으십니까?    (「없습니다」 하는 위원 있음)   가결되었음을 선포합니다
-
 - speech_order=59, tf_trigger=True, agenda_items=[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
   발언 요약: 다음으로 의사일정 제4항부터 제21항까지 아동․청소년의 성보호에 관한 법률 일부개정법률안 18건을 일괄 상정합니다.  아청법에 관한 일부개정법률안 18건을 한꺼번에 상정했기 때문에 조문별로 검토를 시작하겠습니다.   수석전문위원께서 주요 내용을 설명해 주시기 바랍니다.
-
-- speech_order=61, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
-
-- speech_order=63, tf_trigger=False, agenda_items=[]
-  발언 요약: 위원님들 말씀 주십시오.  전주혜 위원님.
-
-- speech_order=65, tf_trigger=False, agenda_items=[]
-  발언 요약: 다른 위원님들 또 말씀 주실 분 계십니까?   유정주 위원님.
 
 - speech_order=69, tf_trigger=False, agenda_items=[]
   발언 요약: 그러면 관계 기관 의견과 여러 위원님들의 신중 검토 의견을 반영해서 이 안건들은 향후 계속해서 심사하도록 하겠습니다.   다음 안건으로 넘어가겠습니다.
 
-- speech_order=71, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀 주시기 바랍니다.
-
-- speech_order=73, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들께서 말씀 주시기 바랍니다.
-
-- speech_order=82, tf_trigger=False, agenda_items=[]
-  발언 요약: 조은희 위원님 말씀 주십시오.
-
-- speech_order=84, tf_trigger=False, agenda_items=[]
-  발언 요약: 지금 이 법안에 관련돼서 관계 기관의 의견이 주로 신중 검토 내지는 보완 필요로 나와 있고 또 여가부의 의견도 신중 검토로 나와 있기 때문에 이에 관련해서는 계속 심사하는 것이……
-
-- speech_order=86, tf_trigger=False, agenda_items=[]
-  발언 요약: 예, 말씀하십시오.
-
-- speech_order=90, tf_trigger=False, agenda_items=[]
-  발언 요약: 예, 말씀하십시오.
-
-- speech_order=96, tf_trigger=False, agenda_items=[]
-  발언 요약: 홍정민 의원안, 61쪽 아래에 나와 있는……
-
 - speech_order=108, tf_trigger=False, agenda_items=[]
   발언 요약: 그러면 이 안건들은 향후 계속해서 심사하도록 하겠습니다.   다음 안건으로 넘어가겠습니다.   수석전문위원께서 주요 내용 설명해 주시기 바랍니다.
-
-- speech_order=110, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 다음.
-
-- speech_order=112, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀 주시기 바랍니다.
-
-- speech_order=114, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들께서 말씀 주시기 바랍니다.
 
 - speech_order=117, tf_trigger=False, agenda_items=[]
   발언 요약: 예.  그러면 다음 안건으로 넘어가서 주요 내용 설명해 주시기 바랍니다.
 
-- speech_order=119, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
-
-- speech_order=121, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들께서 말씀해 주시기 바랍니다.
-
-- speech_order=131, tf_trigger=False, agenda_items=[]
-  발언 요약: 또 다른 위원님……
-
 - speech_order=133, tf_trigger=False, agenda_items=[]
   발언 요약: 실익이 없다, 규제의 과잉화가 초래된다라는 관계기관의 의견이 있는데요. 이 법안을 발의한 사람으로서 관계기관의 의견을 수렴할 때, 지금 지자체하고 한국청소년성문화센터협의회 이렇게 했거든요. 그런데 제가 볼 때는 학부모단체도 포함시켜야 되는 것 아닌가, 교육 수요자의 입
-
-- speech_order=135, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주십시오.
-
-- speech_order=137, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들께서 말씀해 주십시오.
-
-- speech_order=139, tf_trigger=False, agenda_items=[]
-  발언 요약: 다른 위원님들 의견 있으시면 주십시오.     (「없습니다」 하는 위원 있음)   별 의견 없으시면 계속 심사하는 것으로 하겠습니다.   그러면 다음 주제로 넘어가겠습니다.   수석전문위원께서 주요 내용 설명 주시기 바랍니다.
-
-- speech_order=141, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주십시오.
-
-- speech_order=143, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들께서 말씀 주십시오.
 
 - speech_order=145, tf_trigger=False, agenda_items=[]
   발언 요약: 다른 위원님들 의견 없으십니까?     (「예, 동의합니다」 하는 위원 있음)   그러면 이 주제는 향후 계속해서 심사하도록 하겠습니다.   다음 주제로 넘어가겠습니다.   수석전문위원께서 주요 내용 설명 주시기 바랍니다.
 
-- speech_order=147, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
-
-- speech_order=149, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들께서 말씀해 주시기 바랍니다.
-
-- speech_order=153, tf_trigger=False, agenda_items=[]
-  발언 요약: 예, 말씀 주십시오.
-
-- speech_order=161, tf_trigger=False, agenda_items=[]
-  발언 요약: 저는 이것 개인적으로 궁금해서 여쭤보는 건데 교육부가 교습소에 준하는 개인과외교습자도 고지대상에 추가한다라고 했는데 개인과외교습자라는 게 개인이 과외를 하는데 등록을 해서 준기관에 해당하는 겁니까?
-
-- speech_order=163, tf_trigger=False, agenda_items=[]
-  발언 요약: 이미 등록된 사람들. 그러니까 말만 개인과외교습자이지 실제로는 우리가 생각하는 아르바이트 개념이 아니군요.
-
-- speech_order=165, tf_trigger=False, agenda_items=[]
-  발언 요약: 알겠습니다.   그러면 지금 별 이견이 없으신 것이지요, 수정안대로?     (「예」 하는 위원 있음)   그러면 지금 논의한 주제에 대해서는 수정안대로 하는 것으로 하고, 다음 주제로 넘어가겠습니다.
-
-- speech_order=167, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀 주시기 바랍니다.
-
-- speech_order=169, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들께서 말씀 주시기 바랍니다.
-
-- speech_order=176, tf_trigger=False, agenda_items=[]
-  발언 요약: 제가 질의할 게 있는데, 권인숙 의원안의 원래 있었던 부분에서 검토보고 요지가 일부 바뀐 거지요, 내용이? 그러니까 김예지 의원안은 신중 검토, 권인숙 의원안은 타당한 것으로 보시는 거지요?
-
-- speech_order=178, tf_trigger=False, agenda_items=[]
-  발언 요약: 그런데 지금 여가부에서도 동일한 의견으로……
-
 - speech_order=180, tf_trigger=False, agenda_items=[]
   발언 요약: 위에 부분은 신중 검토, 아래에서는 동의하시는 것으로……  어느 위원님부터 먼저 말씀하실래요? 전 위원님부터 먼저 하실래요, 조 위원님 먼저……
-
-- speech_order=186, tf_trigger=False, agenda_items=[]
-  발언 요약: 그런데 고지라는 것이 우리가 필요하기 때문에 관계기관에서 해당하는 사람에게 알려 주는 것 아닙니까?
-
-- speech_order=188, tf_trigger=False, agenda_items=[]
-  발언 요약: 그것을 우리가 고지라고 하는데, 필요하기 때문에 하는데 그것까지 이렇게 규제를 심하게 한다면 과연 정부기관 같은 경우에 정보를 고지하는 임무를 제대로 수행할 수 있겠습니까? 그러니까 정보 공개하고 또 다른 차원인 것 같은데요.
-
-- speech_order=190, tf_trigger=False, agenda_items=[]
-  발언 요약: 구체적으로 공개정보는 그렇다고 치고. 고지정보를 악용한다라는 것이 어떤 것인지가 명확하게 떠오르지가 않는데 구체적인 사례 같은 게 있으면 알려 주시면 저희가 이 법안을 심의하는 데 도움이 될 것 같습니다.
-
-- speech_order=193, tf_trigger=False, agenda_items=[]
-  발언 요약: 예, 말씀하세요.
-
-- speech_order=197, tf_trigger=False, agenda_items=[]
-  발언 요약: 제가 말씀드리는 게 지금 김한규 위원님이 말씀하신 것하고 똑같은 거예요. 예를 들어서 성범죄자가 이 동네에 살고 있다라는 것을 고지받잖아요. 그런데 그 고지가 아무한테나 가는 게 아니란 말이지요. 어린 아이를 키우고 있는 사람들한테만 고지가 되거든요. 그런데 그것을 이
-
-- speech_order=199, tf_trigger=False, agenda_items=[]
-  발언 요약: 저는 정보 공개하고 고지는 엄연히 분리되어야 한다고 생각하거든요. 정보 공개하고 고지하고는 엄연히 다른 거다 이거지요.   고지라는 것은 정부기관, 행정기관에서 필요가 있기 때문에 국민에게 알려 주는 것이란 말이지요, 통지를 하는 것이 고지인데……
-
-- speech_order=201, tf_trigger=False, agenda_items=[]
-  발언 요약: 물론 법이라는 것이 한쪽에 실익이 있으면 한쪽에는 피해가 있을 수도 있지요. 그러나 제가 지금 예를 든 것 같은 성범죄자의 경우에는 그렇게 해서 정보를 널리 알려 줌으로써 얻는 실익이 더 크지 피해가 더 큰 게 아니잖아요. 그런데 그런 경우까지 다 처벌한다고 하면 제가
-
-- speech_order=203, tf_trigger=False, agenda_items=[]
-  발언 요약: 예, 말씀하십시오.
-
-- speech_order=206, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 우리가 지금 다루고 있는 내용 중에서 고지에 관한 것은 계속 심사로 넘기고……
-
-- speech_order=208, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러니까 우리가 지금 논의하는 내용 중에서 지금 권인숙 의원안의 그 부분을 제외한 다른 것은…… 신중 검토가 여가부에서……
-
-- speech_order=210, tf_trigger=False, agenda_items=[]
-  발언 요약: 그런데 전주혜 의원안에 대해서도 지금 신중 검토 의견이 나온 거지요. 왜냐하면 일대일로 하더라도 결국은 다수에게 전한 것과 시간이 지나면 똑같은 효과가 나타난다.
-
-- speech_order=212, tf_trigger=False, agenda_items=[]
-  발언 요약: 예, 그래서 신중 검토가 됐고.  지금 그 부분을 말씀드리는 게 아니라 신상정보 공개뿐만 아니라 현행 제55조가 ‘공개정보의 악용금지’인데 권인숙 의원안에는 ‘공개정보 및 고지정보의 악용금지로 들어가서, 저희가 지금 말씀드리는 것은 이 부분이에요. 지금 김한규 위원님이
-
-- speech_order=215, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 이 전체를 다 다음에 논의하는 것으로……
-
-- speech_order=217, tf_trigger=False, agenda_items=[]
-  발언 요약: 지금 논의하는 8항 자체를 계속 심사하는 것으로 하고 다음 주제로 넘어가겠습니다.   다음 내용 수석전문위원께서 주요 내용 설명 주시기 바랍니다.
-
-- speech_order=219, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
-
-- speech_order=221, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 위원님들 말씀 주십시오.
-
-- speech_order=224, tf_trigger=False, agenda_items=[]
-  발언 요약: 말씀하세요.
-
-- speech_order=233, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러니까 대면할 가능성이 있는 사람들에게만 제한을 하는 것이겠지요.   또 다른 위원님들 의견 없으십니까?
-
-- speech_order=235, tf_trigger=False, agenda_items=[]
-  발언 요약: 아니요. 말씀하십시오.
-
-- speech_order=238, tf_trigger=False, agenda_items=[]
-  발언 요약: 김 위원님께서 말씀하신 취지도 저는 공감하는데 이게 잘못하면 과잉 입법의 소지가 될 수 있다라는 얘기지요. 그러니까 의료기관에 비의료인이 의료인보다 많을 수도 있다라는 얘기입니다, 큰 기관 같은 경우에. 그렇게 이해했습니다.   그러면 다른 의견 없으십니까?
-
-- speech_order=240, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 수정안에 동의하는 것으로 해서 다음 주제로 넘어가겠습니다.
-
-- speech_order=242, tf_trigger=False, agenda_items=[]
-  발언 요약: 우리가 지금 시작한 지 2시간이 다 되었는데 오늘 아청법을 다 심의를 해야 되기는 하겠지만 업무의 효율상 한 10분 정도만, 4시까지 휴식을 하고 4시에 이어서 계속 심사를 하지요.   일단 위원님들이 지금 너무 힘드셔서 잠시 정회했다가 4시에 속개해서 회의를 계속 진
 
 - speech_order=243, tf_trigger=False, agenda_items=[]
   발언 요약: 의석을 정돈해 주시기 바랍니다.   회의를 속개하겠습니다.   안건 논의를 계속하겠습니다.  이어서 할 다음 주제에 대해서 수석전문위원께서 주요 내용 설명해 주시기 바랍니다.
 
-- speech_order=245, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
-
-- speech_order=247, tf_trigger=False, agenda_items=[]
-  발언 요약: 한준호 의원안에 대해서는 신중 검토 의견이 나왔고 권인숙 의원안에 대해서는 수용하되 수정하는 대안 제시 의견이 나왔습니다.   위원님들 여기에 대해서 이견이 있으십니까?
-
 - speech_order=253, tf_trigger=False, agenda_items=[]
   발언 요약: 그러면 별 이의 없으시므로 한준호 의원안은 신중 검토 안으로 계속 심사하도록 하고 권인숙 의원안에 대해서는 수정안으로 하는 것으로 하겠습니다.   그러면 다음 주제로 넘어가겠습니다.   수석전문위원께서 주요 내용 설명 주시기 바랍니다.
-
-- speech_order=255, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀 주시기 바랍니다.
-
-- speech_order=257, tf_trigger=False, agenda_items=[]
-  발언 요약: 전부 다 확인․점검 주체를 수정하는 그런 의견을 내셨습니다.   위원님들께서 이의 없으시면……   이의 있으십니까?     (「동의합니다」 하는 위원 있음)  이의 없으시므로 심의한 대로 이 주제는 수정하는 것으로 하겠습니다.   다음 주제로 넘어가겠습니다.   수석전
-
-- speech_order=259, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀 주시기 바랍니다.
-
-- speech_order=261, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견과 우리 위원회 의견이 둘 다 자구 수정 및 조항 정비에 관한 것이므로 위원님들께서 이의 없으시면 진행하도록 하겠습니다.   이의 있으십니까?     (「없습니다」 하는 위원 있음)  이의 없으시므로 자구를 수정하고 조항을 정비해서 하도록 하겠습니다.   
-
-- speech_order=267, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 지금 저희가 심의한 대로 하기로 하고 다음 주제로 넘어가겠습니다.   수석전문위원께서 주요 내용 설명해 주시기 바랍니다.
-
-- speech_order=269, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀 주시기 바랍니다.
-
-- speech_order=271, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러니까 고지 송부 방식을 여성가족부령으로 정할 수 있도록 하는 안을 수용하신다는 말씀이시지요?
-
-- speech_order=273, tf_trigger=False, agenda_items=[]
-  발언 요약: 여가위하고 정부 측 둘 다 수정의견으로 나왔는데, 위원님들 의견 주십시오.
-
-- speech_order=276, tf_trigger=False, agenda_items=[]
-  발언 요약: 위원님들 이견 있으시면 의견 주십시오.    (「여가부 의견에 동의합니다」 하는 위원 있음)  그러면 수정의견으로 하는 것으로 하겠습니다.   그러면 다음 주제로 넘어가겠습니다.   수석전문위원께서 주요 내용 설명 주시기 바랍니다.
-
-- speech_order=278, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
 
 - speech_order=280, tf_trigger=False, agenda_items=[]
   발언 요약: 정부 측, 여가위 측 전부 다 수정의견 나왔습니다.   위원님들 의견 주십시오.    (「이의 없습니다」 하는 위원 있음)   이의 없으십니까?     (「예」 하는 위원 있음)   더 이상 의견이 없으시면 의결하도록 하겠습니다.   지금 심사한 제4항부터 제21항까지
 
-- speech_order=282, tf_trigger=False, agenda_items=[]
-  발언 요약: 예.
-
-- speech_order=284, tf_trigger=False, agenda_items=[]
-  발언 요약: 예.
-
-- speech_order=286, tf_trigger=False, agenda_items=[]
-  발언 요약: 오늘 상정한 것으로, 더 하시게요?
-
-- speech_order=289, tf_trigger=False, agenda_items=[]
-  발언 요약: 그렇지요.   다른 의견 있으십니까?    (「없습니다」 하는 위원 있음)
-
 - speech_order=290, tf_trigger=True, agenda_items=[22]
   발언 요약: 그러면 제22항 성폭력방지 및 피해자보호 등에 관한 법률 일부개정법률안을 상정합니다.   수석전문위원께서 주요 내용 설명해 주시기 바랍니다.
 
-- speech_order=292, tf_trigger=False, agenda_items=[]
-  발언 요약: 정부 측 의견 말씀해 주시기 바랍니다.
-
-- speech_order=294, tf_trigger=False, agenda_items=[]
-  발언 요약: 조문에 따라서 신중 검토 또는 수정의견이 나왔습니다.   위원님들께서 말씀해 주시기 바랍니다.
-
-- speech_order=296, tf_trigger=False, agenda_items=[]
-  발언 요약: 용혜인 위원님.
-
-- speech_order=300, tf_trigger=False, agenda_items=[]
-  발언 요약: 오른쪽에……
-
-- speech_order=310, tf_trigger=False, agenda_items=[]
-  발언 요약: 대표발의하신 전주혜 위원님 말씀하시지요.
-
-- speech_order=316, tf_trigger=False, agenda_items=[]
-  발언 요약: 대표발의하셨으니까.  그러면 5조는 신중 검토 의견이 나왔기 때문에 이것에 대해서는 하지 않고.
-
-- speech_order=318, tf_trigger=False, agenda_items=[]
-  발언 요약: 조은희 위원님.
-
-- speech_order=326, tf_trigger=False, agenda_items=[]
-  발언 요약: 아니, 그런데 137쪽에 나와 있는 문건을 보면 지금 정부 측에서는 사건 재발방지대책이라고 그래서 사건을 보고하면서 재발방지대책을 한 문건에 낸다라는 얘기이지요? 그런 뜻 아닙니까?
-
-- speech_order=336, tf_trigger=False, agenda_items=[]
-  발언 요약: 법안이라는 것은 축조 심사를 원칙으로 하고 있기 때문에 우리가 따로따로, 지금 130쪽 위원회에서 나온 검토보고 자료에 1, 2, 3, 4 이렇게 나눠져 있지 않습니까. 그래서 나눠서 얘기를 하나씩 해 볼 필요가 있을 것 같습니다.
-
-- speech_order=338, tf_trigger=False, agenda_items=[]
-  발언 요약: 그래서 1번에 보면 피해자의 의사를 고려하지 않고, 지금 현행은 피해자의 명시적인 반대 의견이 없는 경우에 지체 없이 통보하는 건데 지금 개정안에는 사건 발생 시 지체 없이 통보한다 그래서 피해자의 견해가 반영이 안 되어 있기 때문에, 의사가 반영이 안 되어 있기 때문
-
-- speech_order=340, tf_trigger=False, agenda_items=[]
-  발언 요약: 예, 1번만 가지고 논의를 하십시다.  그래서 지금 양이원영 위원님 말씀 들었고요. 1번에 대해서 또 다른 의견 가지신 분……  용 위원님 말씀하십시오.
-
 - speech_order=342, tf_trigger=False, agenda_items=[]
   발언 요약: 용 위원님, 그것은 3항에서 얘기할 거고요. 우선 1항 부분을 먼저 짚고 넘어가야 될 것 같습니다.
-
-- speech_order=344, tf_trigger=False, agenda_items=[]
-  발언 요약: 피해자 동의 없이, 말하자면 2차 피해…… 그런데 제가 상식적으로 알기에는 다른 범죄와 달리 성범죄․성폭력 사건에 관한 경우에 피해자가 여러 가지 이유로 밝혀지는 것을 좋아하지 않는 경우가 많이 있습니다. 그래서 이 경우에 어떻게 해야 될지 다른 위원님들께서 의견 주십
-
-- speech_order=346, tf_trigger=False, agenda_items=[]
-  발언 요약: 또 1항에 대해서 의견 없으십니까?   그러면 1항에 대해서 의견이 엇갈리기 때문에, 이 부분은 위원회에서 합의된 의견이 나오지 않았기 때문에 계속 심사하는 것으로 하고요.
-
-- speech_order=348, tf_trigger=False, agenda_items=[]
-  발언 요약: 알겠습니다. 그러면 이것은 수용하시고요.
-
-- speech_order=351, tf_trigger=False, agenda_items=[]
-  발언 요약: 그것도 안인데 조금 아까 양이원영 위원님께서 말씀하신 게, 제가 착각을 했는지 모르겠는데 그런 내용 아니었어요? 사건처리 결과하고 재발방지대책하고 분리해서 하자는 게 어느 위원님 의견이셨지?
-
-- speech_order=353, tf_trigger=False, agenda_items=[]
-  발언 요약: 그렇지요.   사건처리 결과는 1개월 내에 통보하고 재발방지대책은 3개월 내에 하고 그렇게 분리해서 하면 어떻겠습니까? 현실적으로 그게 여가부에서 받아들이기 어려운……
-
-- speech_order=356, tf_trigger=False, agenda_items=[]
-  발언 요약: 법안 발의하신 전주혜 위원님께서……
-
-- speech_order=360, tf_trigger=False, agenda_items=[]
-  발언 요약: 아니, 위원님이 내신 법안에 1개월 내에 사건처리 결과와 재방방지대책을 제출하라고 돼 있는 거잖아요?
-
-- speech_order=362, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 지금 전주혜 위원님이 주신 수정 의견에 대해서 여가부에서 어떻게 생각하시는지 정부 측 의견 주십시오.
-
-- speech_order=369, tf_trigger=False, agenda_items=[]
-  발언 요약: 3개월 내에.
-
-- speech_order=376, tf_trigger=False, agenda_items=[]
-  발언 요약: 말씀하세요.
-
-- speech_order=382, tf_trigger=False, agenda_items=[]
-  발언 요약: 논의를 정리하면요 1번은 받아들이지 않기로, 계속 심사하는 것으로 하고, 3번으로 넘어가서 통보한 날부터 3개월 이내에 사건처리 결과 및 재발방지대책을 제출하기로 한다라는 것을 받아들이시기로 한 것이지요, 전주혜 위원님?
-
-- speech_order=389, tf_trigger=False, agenda_items=[]
-  발언 요약: 효율적으로 심의하기 위해서, 지금 우리가 3항을 심의했는데 전주혜 위원님이 정부 측 의견을 수용하셔서 개정안 내용을 그렇게 바꾸신다는 것이지요? 통보한 날부터 3개월 이내에, 지금 내신 법안 중에서 1개월을 3개월로 바꾼다 그런 내용이지요?
-
-- speech_order=391, tf_trigger=False, agenda_items=[]
-  발언 요약: 충분하지요, 3개월이면.
-
-- speech_order=399, tf_trigger=False, agenda_items=[]
-  발언 요약: 행정부처에 물리적인 어려움이 있다니까……
-
-- speech_order=401, tf_trigger=False, agenda_items=[]
-  발언 요약: 지체 없이라고 돼 있지요.
-
-- speech_order=406, tf_trigger=False, agenda_items=[]
-  발언 요약: 논의를 정리합시다.   사실 현행법이나……
-
-- speech_order=416, tf_trigger=False, agenda_items=[]
-  발언 요약: 현행법이나 개정안이나 사건 발생 시에 지체 없이 통보한다는 것은 양쪽 다 들어가 있고, 그것은 상식선에서 판단하면 될 것 같습니다.   지금 우리가 1․3․4항을 논의해야 되는데, 4항도 논의해야 되는데 아직 3항에서 결론이 안 났는데 어떻게…… 전 위원님 대표발의하신
-
-- speech_order=419, tf_trigger=False, agenda_items=[]
-  발언 요약: 여성가족부 수정 의견 안을 받아들이신답니다. 그러니까 3개월 이내에 재발방지대책을 제출하여야 한다, 다만 대통령령으로 정하는 기관장 등에 의한 사건인 경우 해당 사실을 안 날부터 1개월 이내에 재발방지대책을 제출한다라는 게 여성가족부의 수정 의견이거든요. 이것을 대표발
-
-- speech_order=421, tf_trigger=False, agenda_items=[]
-  발언 요약: 그래요?   아, 공개하도록 하는 것은 부담되니까 수용하신다고 이미 하셨군요.   그러면 4항도 논의할 필요가 없군요.
-
-- speech_order=423, tf_trigger=False, agenda_items=[]
-  발언 요약: 그러면 여성가족부 수정 의견을 대표발의하신 전주혜 위원님께서 다 받아들이셨기 때문에 이 심사는 마치는 것으로 하겠습니다.
-
-- speech_order=430, tf_trigger=False, agenda_items=[]
-  발언 요약: 그것은 내부적으로 하면 되는 것이고요.  그러면 더 이상 의견이 없으시면 의결하도록 하겠습니다.   제22항은 지금까지 논의한 바와 같이 수정한 부분은 수정한 대로, 기타 부분은 원안대로 의결하고자 하는데 이의 있으십니까?    (「없습니다」 하는 위원 있음)  가결되
 
 
 === 최종 심사구간(deliberation segments) ===
