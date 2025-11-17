@@ -623,7 +623,7 @@ def apply_segments_to_speeches(speeches, segments):
 def main():
     meeting_id = MEETING_ID
 
-    input_file = f"./out/speeches_meeting_{meeting_id}.json"
+    input_file = f"./과학기술정보방송통신위원회_meetings_speeches/2020년제외_제21대 국회 소위원회 과학기술정보방송통신위원회 회의록 데이터셋_speeches_meeting_{meeting_id}.json"
     output_file = f"./division_out/speeches_triggerdeliber_{meeting_id}.json"
     log_file = f"./logs/trigger_deliber_{meeting_id}.log"
 

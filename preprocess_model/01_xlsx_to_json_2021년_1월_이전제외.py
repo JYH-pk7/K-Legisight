@@ -9,36 +9,12 @@ when explicit columns ('회수', '차수') are empty or missing.
 
 Usage:
   pip install pandas openpyxl
-  python xlsx_to_json_null.py --excel "/Users/mac/Downloads/21대 소위원회/제21대 국회 소위원회 교육위원회 회의록 데이터셋.xlsx" --outdir "./output"
+  python /Users/mac/vscode/K-Legisight/preprocess_model/01_xlsx_to_json_2020년모두제외.py --excel "/Users/mac/Downloads/21대 소위원회/제21대 국회 소위원회 과학기술정보방송통신위원회  회의록 데이터셋.xlsx" --outdir "/Users/mac/vscode/K-Legisight/preprocess_model/output"
 
 Outputs:
   <base>_speeches.json
   <base>_meetings.json
 """
-
-# === Bills filter: keep only lines that contain a valid bill number (의안번호 ####) ===
-import re as _re_bills_filter
-
-_RE_BILLNO = _re_bills_filter.compile(r"의\s*안\s*번\s*호\s*[:\s\-]*\d{4,}", _re_bills_filter.IGNORECASE)
-
-def _bf_has_bill_number(text: str) -> bool:
-    if not text:
-        return False
-    return bool(_RE_BILLNO.search(str(text)))
-
-def _bf_filter_bills_lines(bills: str):
-    """
-    - If bills has multiple lines, keep only lines that contain a bill number (의안번호 ####).
-    - If none remain, return None to avoid recording bills.
-    """
-    if not bills:
-        return None
-    s = str(bills).replace("\\r", "\\n")
-    lines = [ln.strip() for ln in s.split("\\n") if ln.strip()]
-    kept = [ln for ln in lines if _bf_has_bill_number(ln)]
-    return "\\n".join(kept) if kept else None
-
-
 import argparse
 import hashlib
 import json
@@ -195,9 +171,8 @@ def build_meetings(df: pd.DataFrame) -> List[Dict[str, Any]]:
         # Columns to scan with regex if explicit fields are empty/missing
         scan_cols = [c for c in ["회의록구분", "회의구분", "위원회", "기타정보", "안건"] if c in df.columns]
 
-        for __meet_key, g in grouped:
+        for _, g in grouped:
             rec: Dict[str, Any] = {}
-            rec["meeting_id"] = _coerce_int(__meet_key)
 
             # Fill straightforward fields from first non-empty
             for out_key, in_col in present.items():
@@ -225,8 +200,6 @@ def build_meetings(df: pd.DataFrame) -> List[Dict[str, Any]]:
         # Fallback: no meeting key, produce per-row (best-effort)
         for _, row in df.iterrows():
             rec: Dict[str, Any] = {}
-            rec["meeting_id"] = _coerce_int(row.get("회의번호"))
-
             for out_key, in_col in present.items():
                 val = row.get(in_col)
                 if out_key in {"number_of_meetings", "chasu"}:
@@ -258,33 +231,64 @@ def main():
     df = pd.read_excel(args.excel, engine="openpyxl")
     df.columns = [str(c).strip() for c in df.columns]
 
+    # ---- 회의일자(YYYY년M월...) 기준 필터링 ----
+    # 2021년 2월 1일 00:00 이후의 회의만 변환 대상에 포함한다.
+    if "회의일자" in df.columns:
+        import re
+
+        def _extract_year_month(value):
+            s = str(value) if value is not None else ""
+            m = re.search(r"(\d{4})\s*년\s*(\d{1,2})\s*월", s)
+            if not m:
+                return None, None
+            try:
+                year = int(m.group(1))
+                month = int(m.group(2))
+                return year, month
+            except Exception:
+                return None, None
+
+        CUTOFF_YEAR = 2021
+        CUTOFF_MONTH = 2
+        
+        # 2021년 2월부터의 회의만 포함
+        mask_keep = []
+        for v in df["회의일자"]:
+            year, month = _extract_year_month(v)
+            
+            if year is None or month is None:
+                # 날짜 파싱이 안 되면 일단 포함 (안전장치)
+                mask_keep.append(True)
+            else:
+                # 2021년 2월 1일 00:00 이후 데이터만 포함
+                if year > CUTOFF_YEAR:
+                    # 2022년 이후는 모두 포함
+                    mask_keep.append(True)
+                elif year == CUTOFF_YEAR:
+                    # 2021년은 2월부터 포함
+                    mask_keep.append(month >= CUTOFF_MONTH)
+                else:
+                    # 2020년 이하는 모두 제외
+                    mask_keep.append(False)
+                    
+        df = df[pd.Series(mask_keep).values]
+    # ---------------------------------------
+    
     speeches = build_speeches(df)
     meetings = build_meetings(df)
 
     base = os.path.splitext(os.path.basename(args.excel))[0]
-    out_speeches = os.path.join(args.outdir, f"{base}_speeches_patched.json")
-
-    
-    # __BILLS_FILTER_PRE_SAVE__: sanitize `bills` based on presence of a bill number
-    if isinstance(speeches, list):
-        changed_cnt = 0
-        for __rec in speeches:
-            if isinstance(__rec, dict) and "bills" in __rec:
-                __new = _bf_filter_bills_lines(__rec.get("bills"))
-                if __new != __rec.get("bills"):
-                    __rec["bills"] = __new
-                    changed_cnt += 1
-        print(f"[Bills filter] Cleaned/updated {changed_cnt} records (removed bills without 의안번호).")
+    out_speeches = os.path.join(args.outdir, f"2021년2월부터_{base}_speeches.json")
+    out_meetings = os.path.join(args.outdir, f"2021년2월부터_{base}_meetings.json")
 
     os.makedirs(args.outdir, exist_ok=True)
     with open(out_speeches, "w", encoding="utf-8") as f:
         json.dump(speeches, f, ensure_ascii=False, indent=2)
-    out_meetings_patched = os.path.join(args.outdir, f"{base}_meetings_patched.json")
-    with open(out_meetings_patched, "w", encoding="utf-8") as f:
+    with open(out_meetings, "w", encoding="utf-8") as f:
         json.dump(meetings, f, ensure_ascii=False, indent=2)
 
     print(f"Saved: {out_speeches}")
-    print(f"Saved: {out_meetings_patched}")
+    print(f"Saved: {out_meetings}")
 
 
 if __name__ == "__main__":
