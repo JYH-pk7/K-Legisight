@@ -61,13 +61,24 @@ answer_segments = {
         },
         {
             "delib_order": 12,
+            "agenda_items": [37, 38, 39, 40, 41, 42, 43, 44],
+            "agenda_range_str": "의사일정 제37항부터 제44항까지",
+        },
+        {
+            "delib_order": 13,
             "agenda_items": [45, 46, 47],
             "agenda_range_str": "의사일정 제45항부터 제47항까지",
         },
         {
-            "delib_order": 13,
+            "delib_order": 14,
             "agenda_items": [48],
             "agenda_range_str": "의사일정 제48항",
         },
+        {
+            "delib_order": 15,
+            "agenda_items": [49, 50, 51, 52, 53, 54, 55, 56, 57],
+            "agenda_range_str": "의사일정 제49항부터 제57항까지",
+        },
+
     ]
 }
