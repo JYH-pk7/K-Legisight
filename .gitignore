@@ -1,0 +1,23 @@
+가상 환경
+
+venv/
+.venv/
+
+Python 캐시
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+환경 변수 파일
+
+.env
+
+VSCode 설정
+
+.vscode/
+
+macOS 시스템 파일
+
+.DS_Store
