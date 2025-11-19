@@ -1,0 +1,10 @@
+curl -X POST https://api.supabase.com/v1/projects \
+  -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "organization_id": "brjojhnohcdrntbzwoqr",
+    "name": "My Project",
+    "region": "ap-southeast-2",
+    "db_pass": "2345"
+  }'
+
