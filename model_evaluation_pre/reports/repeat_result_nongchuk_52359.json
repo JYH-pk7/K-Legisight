@@ -1,0 +1,38 @@
+{
+  "committee": "nongchuk",
+  "meeting_id": 52359,
+  "repeat": 10,
+  "avg_precision": 1.0,
+  "avg_recall": 1.0,
+  "avg_f1": 1.0,
+  "variance_f1": 0.0,
+  "stdev_f1": 0.0,
+  "best_f1": 1.0,
+  "best_runs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "best_rate": 1.0,
+  "fail_rate": 0.0,
+  "stability": 1.0,
+  "f1_scores": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ]
+}
