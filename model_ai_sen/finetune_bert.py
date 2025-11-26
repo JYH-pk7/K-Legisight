@@ -1,9 +1,9 @@
 '''
-finetune_sentiment.py
+finetune_bert.py
 '''
 import pandas as pd
 from datasets import Dataset, DatasetDict
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer
+from transformers import AutoTokenizer, ElectraTokenizerFast, AutoModelForSequenceClassification, TrainingArguments, Trainer
 import numpy as np
 from sklearn.metrics import accuracy_score, f1_score
 import sys 
@@ -13,13 +13,17 @@ import sys
 # =========================================
 # MODEL_CHECKPOINT = "klue/bert-base" 
 # MODEL_CHECKPOINT = "JiyoungP/QOD-Korean-Political-Sentiment-BERT"
-# MODEL_CHECKPOINT = "monologg/kobert" 
-MODEL_CHECKPOINT = "monologg/KoELECTRA"
+# MODEL_CHECKPOINT = "WhitePeak/bert-base-cased-Korean-sentiment"
+# MODEL_CHECKPOINT = "klue/roberta-base"
+# MODEL_CHECKPOINT = "FacebookAI/xlm-roberta-base"
+MODEL_CHECKPOINT = "beomi/kcbert-base"
 
 NUM_LABELS = 3
 
 # 저장 폴더
-OUTPUT_DIR = "./sentiment_analysis/models/koelectra_v4"
+# OUTPUT_DIR = "./sentiment_analysis/models/klue_bert_v1"
+# OUTPUT_DIR = "./sentiment_analysis/models/jy_bert_v2"
+OUTPUT_DIR = "./backend/sentiment_analysis/models/beomi_kcbert_v10"
 
 # 라벨 매핑: 모델 출력과 사람이 읽는 라벨을 연결
 LABEL_MAP = {
@@ -42,8 +46,8 @@ def load_and_tokenize_data(tokenizer):
         tokenizer (transformers.PreTrainedTokenizer): 각각의 모델에 맞는 토크나이저 객체.
     """    
     try:
-        df_train = pd.read_csv("./sentiment_analysis/data/train.csv")
-        df_valid = pd.read_csv("./sentiment_analysis/data/validation.csv")
+        df_train = pd.read_csv("./backend/sentiment_analysis/data/train.csv")
+        df_valid = pd.read_csv("./backend/sentiment_analysis/data/validation.csv")
     except FileNotFoundError:
         print("🚨 오류: data/train.csv 또는 data/validation.csv 파일을 찾을 수 없습니다.")
         print("   데이터 파일을 data 폴더에 넣고 스크립트를 실행해주세요.")
@@ -89,34 +93,19 @@ def compute_metrics(p):
 # 학습 완료 후, 최종 모델과 토크나이저를 OUTPUT_DIR에 저장
 # =========================================
 def run_finetuning():
-############### 이건 klue, hugging ###################
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_CHECKPOINT) # ★★★ 이 한 줄로 변경 ★★★    # 데이터 준비
-    tokenized_datasets = load_and_tokenize_data(tokenizer)
-    if tokenized_datasets is None:
-        return
+    tokenizer = AutoTokenizer.from_pretrained(
+    MODEL_CHECKPOINT, 
+    trust_remote_code=True
+)
 
-    # 모델 로드: num_labels=3 이 핵심!
     model = AutoModelForSequenceClassification.from_pretrained(
-        MODEL_CHECKPOINT, 
-        num_labels=NUM_LABELS
-    )
-#####################################################
-    # tokenizer = AutoTokenizer.from_pretrained(
-    #     MODEL_CHECKPOINT,
-    #     trust_remote_code=True 
-    # )
+    MODEL_CHECKPOINT, 
+    num_labels=NUM_LABELS,
+    trust_remote_code=True,
+    ignore_mismatched_sizes=True
+)
+    tokenized_datasets = load_and_tokenize_data(tokenizer)
 
-    # tokenized_datasets = load_and_tokenize_data(tokenizer) # <--- 여기가 먼저 실행되어야 함
-    # if tokenized_datasets is None:
-    #     return
-    
-    # # 2. 모델 로드 시에도 동일하게 적용
-    # model = AutoModelForSequenceClassification.from_pretrained(
-    #     MODEL_CHECKPOINT,
-    #     num_labels=NUM_LABELS,
-    #     trust_remote_code=True 
-    # )
-#############################################################
     # 학습 인자 설정
     training_args = TrainingArguments(
         output_dir=OUTPUT_DIR,
@@ -125,7 +114,7 @@ def run_finetuning():
         per_device_eval_batch_size=16,
         num_train_epochs=3,
         weight_decay=0.01,
-        eval_strategy="epoch", # 매 에포크마다 검증
+        evaluation_strategy="epoch", # 매 에포크마다 검증
         save_strategy="epoch",       # 매 에포크마다 저장
         load_best_model_at_end=True, # 학습 종료 시 최적 모델 로드
         metric_for_best_model="f1_weighted", # 최적 모델 선정 기준
