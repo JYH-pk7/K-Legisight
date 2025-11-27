@@ -1,0 +1,37 @@
+{
+  "committee": "saneop",
+  "meeting_id": 52894,
+  "repeat": 10,
+  "avg_precision": 0.9,
+  "avg_recall": 0.9,
+  "avg_f1": 0.9,
+  "variance_f1": 0.1,
+  "stdev_f1": 0.31622776601683794,
+  "best_f1": 1.0,
+  "best_runs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "best_rate": 0.9,
+  "fail_rate": 0.1,
+  "stability": 0.683772233983162,
+  "f1_scores": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0
+  ]
+}
