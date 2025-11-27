@@ -26,3 +26,7 @@ model_prep/committee_output/
 model_prep/meeting_split_all/
 model_prep/meeting_number_filltered/
 model_prep/trigger_deliber_output/
+model_prep/trigger_results
+model_prep/trigger_results_failed
+model_prep/trigger_summary
+model_prep/trigger_summary_failed
