@@ -31,13 +31,13 @@ import glob
 # 설정
 # =========================================
 OLLAMA_API = "http://localhost:11434/api/generate"
-MODEL = "gpt-oss:120b-cloud"
+MODEL = "gemini-3-pro-preview"
 TEMPERATURE = 0.005
 TIMEOUT = 1500
 
 # CLI에서 meeting_id 를 받아 처리
-if len(sys.argv) != 2:
-    print("❌ 사용법: python trigger_deliber_x.py <MEETING_ID>")
+if len(sys.argv) != 2 and len(sys.argv) != 3:
+    print("사용법: python trigger_deliber_x.py <MEETING_ID> [OUTPUT_FILE]")
     sys.exit(1)
 
 MEETING_ID = sys.argv[1] 
@@ -90,7 +90,7 @@ def is_trigger_candidate(text: str) -> bool:
     if not text:
         return False
 
-    # 🚫 정회 + 산회 관련 표현은 전부 후보 제외
+    # 정회 + 산회 관련 표현은 전부 후보 제외
     RECESS_KEYWORDS = [
         "정회를 선포합니다",
         "정회하겠습니다",
@@ -124,7 +124,7 @@ def call_llm(prompt: str) -> str:
         return res.json().get("response", "")
     except Exception as e:
         # 여기서 에러 타입도 같이 찍고 있음
-        return f"⚠️ LLM 호출 오류: {type(e).__name__}: {e}"
+        return f" LLM 호출 오류: {type(e).__name__}: {e}"
 
 
 def extract_json_array(resp: str):
@@ -156,7 +156,7 @@ def extract_json_array(resp: str):
         return json.loads(text)
     except Exception as e:
         # 디버깅용으로 한 번 찍어보면 좋음
-        print("⚠️ JSON 파싱 오류:", e)
+        print(" JSON 파싱 오류:", e)
         # 실패하면 빈 리스트 반환
         return []
 
@@ -165,7 +165,7 @@ def is_valid_llm_response(resp: str) -> bool:
     """LLM 응답이 사용 가능한지 간단히 검사."""
     if not resp:
         return False
-    if "⚠️" in resp:  # 우리가 만든 에러 문자열
+    if "LLM 호출 오류" in resp:  # 우리가 만든 에러 문자열
         return False
     # 최소한 JSON 배열 대괄호는 있어야 함
     if "[" not in resp:
@@ -726,7 +726,7 @@ def normalize_chair_results(chair_speeches, raw_results, log):
                 }
             )
             log.write(
-                f"⚠️ LLM 결과에 없는 소위원장 발언 speech_order={so} → 기본값(tf_trigger=False)으로 처리\n"
+                f" LLM 결과에 없는 소위원장 발언 speech_order={so} → 기본값(tf_trigger=False)으로 처리\n"
             )
 
     # speech_order 기준 정렬
@@ -745,7 +745,7 @@ def build_bill_review(bill_pool, agenda_items, log):
         if bill:
             bill_review.append(bill["raw"])
         else:
-            log.write(f"⚠️ bill_pool에 없는 의사일정 항 번호: {idx}\n")
+            log.write(f" bill_pool에 없는 의사일정 항 번호: {idx}\n")
     return bill_review
 
 
@@ -768,7 +768,7 @@ def build_segments(speeches, chair_results, bill_pool, log):
     ]
 
     if not triggers:
-        log.write("⚠️ tf_trigger=True이고 agenda_items가 비어있지 않은 트리거가 없습니다.\n")
+        log.write(" tf_trigger=True이고 agenda_items가 비어있지 않은 트리거가 없습니다.\n")
         return []
 
     # speech_order 기준으로 정렬
@@ -922,11 +922,11 @@ def main():
     matches = glob.glob(pattern, recursive=True)
 
     if not matches:
-        print(f"❌ 입력 JSON을 찾을 수 없습니다: meeting_id={meeting_id}")
+        print(f"입력 JSON을 찾을 수 없습니다: meeting_id={meeting_id}")
         return
 
     input_file = matches[0]
-    print(f"📥 입력 파일 자동 감지됨: {input_file}")
+    print(f"입력 파일 자동 감지됨: {input_file}")
     # ===============================================================
 
     # 출력 폴더 설정
@@ -946,7 +946,7 @@ def main():
     with open(input_file, "r", encoding="utf-8") as f:
         speeches = json.load(f)
 
-    print(f"📥 입력 파일 로드 완료: {input_file}")
+    print(f"입력 파일 로드 완료: {input_file}")
     print(f"총 발언 수: {len(speeches)}")
 
     with open(log_file, "w", encoding="utf-8") as log:
@@ -958,19 +958,19 @@ def main():
         # bill_pool 생성
         bill_pool = build_bill_pool_from_all(speeches)
         log.write(f"bill_pool 크기(의사일정 항 개수): {len(bill_pool)}\n\n")
-        print(f"📚 bill_pool 생성 완료 (의사일정 항 개수: {len(bill_pool)})")
+        print(f" bill_pool 생성 완료 (의사일정 항 개수: {len(bill_pool)})")
         bill_pool_txt = os.path.join(output_dir, f"bill_pool_{meeting_id}.txt")
         with open(bill_pool_txt, "w", encoding="utf-8") as bf:
             bf.write("=== bill_pool (의사일정 전체 목록) ===\n\n")
             for idx in sorted(bill_pool.keys()):
                 bf.write(f"{bill_pool[idx]['raw']}\n")
 
-        print(f"📝 bill_pool TXT 저장 완료 → {bill_pool_txt}")
+        print(f" bill_pool TXT 저장 완료 → {bill_pool_txt}")
         log.write(f"bill_pool 텍스트 저장: {bill_pool_txt}\n\n")
 
         if not bill_pool:
-            log.write("⚠️ bill_pool이 비어 있습니다. 종료.\n")
-            print("⚠️ bill_pool 비어 있음. 로그 확인 후 입력 데이터를 점검하세요.")
+            log.write(" bill_pool이 비어 있습니다. 종료.\n")
+            print(" bill_pool 비어 있음. 로그 확인 후 입력 데이터를 점검하세요.")
             return
 
         # 소위원장 발언 추출
@@ -978,11 +978,11 @@ def main():
             s for s in speeches if "소위원장" in (s.get("member_name") or "")
         ]
         log.write(f"소위원장 발언 수(전체): {len(chair_speeches)}\n")
-        print(f"🧑‍⚖️ 소위원장 발언 추출 완료: {len(chair_speeches)}개")
+        print(f" 소위원장 발언 추출 완료: {len(chair_speeches)}개")
 
         if not chair_speeches:
-            log.write("⚠️ 소위원장 발언이 없습니다. 종료.\n")
-            print("⚠️ 소위원장 발언이 없습니다. member_name 필드를 다시 확인해 주세요.")
+            log.write(" 소위원장 발언이 없습니다. 종료.\n")
+            print(" 소위원장 발언이 없습니다. member_name 필드를 다시 확인해 주세요.")
             return
 
         # ✅ 전처리: 키워드 기반 트리거 후보 소위원장 발언만 추리기
@@ -992,7 +992,7 @@ def main():
         ]
 
         log.write(f"소위원장 트리거 후보 발언 수(키워드 필터): {len(chair_trigger_candidates)}\n\n")
-        print(f"🎯 소위원장 트리거 후보 발언 수: {len(chair_trigger_candidates)}개")
+        print(f" 소위원장 트리거 후보 발언 수: {len(chair_trigger_candidates)}개")
 
         # 후보 발언 TXT로 저장해서 눈으로 확인할 수 있게
         chair_candidate_txt = os.path.join(
@@ -1005,11 +1005,11 @@ def main():
                 cf.write((s.get("speech_text") or "").replace("\n", " ") + "\n\n")
 
         log.write(f"소위원장 트리거 후보 TXT 저장: {chair_candidate_txt}\n\n")
-        print(f"📝 소위원장 트리거 후보 TXT 저장 완료 → {chair_candidate_txt}")
+        print(f" 소위원장 트리거 후보 TXT 저장 완료 → {chair_candidate_txt}")
 
         if not chair_trigger_candidates:
-            log.write("⚠️ 키워드 기반 소위원장 트리거 후보 발언이 없습니다. 종료.\n")
-            print("⚠️ 트리거 후보 발언이 없습니다. INCLUDE_KEYWORDS 또는 입력 데이터를 점검하세요.")
+            log.write(" 키워드 기반 소위원장 트리거 후보 발언이 없습니다. 종료.\n")
+            print(" 트리거 후보 발언이 없습니다. INCLUDE_KEYWORDS 또는 입력 데이터를 점검하세요.")
             return
 
         # 프롬프트 구성 및 LLM 호출
@@ -1021,25 +1021,25 @@ def main():
         print(f"LLM raw response length: {len(resp) if resp else 0}")
 
         if not is_valid_llm_response(resp):
-            log.write("⚠️ LLM 응답이 유효하지 않습니다.\n")
+            log.write(" LLM 응답이 유효하지 않습니다.\n")
             log.write("=== Raw LLM Response Start ===\n")
             log.write(str(resp) + "\n")
             log.write("=== Raw LLM Response End ===\n")
-            print("⚠️ LLM 응답이 유효하지 않음. 로그 파일에서 원본 응답을 확인하세요.")
+            print(" LLM 응답이 유효하지 않음. 로그 파일에서 원본 응답을 확인하세요.")
             return
 
         raw_results = extract_json_array(resp)
         if not raw_results:
-            log.write("⚠️ JSON 배열 파싱 결과가 비어 있습니다.\n")
+            log.write(" JSON 배열 파싱 결과가 비어 있습니다.\n")
             log.write("=== Raw LLM Response (for parsing error) ===\n")
             log.write(str(resp) + "\n")
-            print("⚠️ LLM 응답에서 JSON 배열을 찾지 못했습니다. 로그의 원문 응답을 확인하고 프롬프트를 점검하세요.")
+            print(" LLM 응답에서 JSON 배열을 찾지 못했습니다. 로그의 원문 응답을 확인하고 프롬프트를 점검하세요.")
             return
 
 
-        print(f"✅ LLM 응답 수신 및 JSON 파싱 완료 (항목 수: {len(raw_results)})")
+        print(f" LLM 응답 수신 및 JSON 파싱 완료 (항목 수: {len(raw_results)})")
 
-        # 결과 정규화 (⚠️ 이제는 '후보 발언들' 기준으로 정규화)
+        # 결과 정규화 ( 이제는 '후보 발언들' 기준으로 정규화)
         chair_results = normalize_chair_results(chair_trigger_candidates, raw_results, log)
 
         log.write("\n=== 소위원장 트리거 판별 결과 (후보 발언 기준) ===\n\n")
@@ -1056,24 +1056,24 @@ def main():
             log.write(f"  발언 요약: {text_short}\n\n")
 
         # 심사구간 생성
-        print("🧩 소위원장 트리거를 기반으로 심사구간 생성 중...")
+        print(" 소위원장 트리거를 기반으로 심사구간 생성 중...")
         segments = build_segments(speeches, chair_results, bill_pool, log)
         if not segments:
-            print("⚠️ 트리거/심사구간이 생성되지 않았습니다. 로그를 확인하세요.")
+            print(" 트리거/심사구간이 생성되지 않았습니다. 로그를 확인하세요.")
             return
 
-        print(f"🎯 생성된 심사구간 수: {len(segments)}")
+        print(f" 생성된 심사구간 수: {len(segments)}")
 
         # 원본 JSON에 반영
-        print("📌 심사구간 정보를 원본 발언에 적용 중...")
+        print(" 심사구간 정보를 원본 발언에 적용 중...")
         new_speeches = apply_segments_to_speeches(speeches, segments)
 
     # 결과 저장
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(new_speeches, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ trigger_deliber 처리 완료 → {output_file}")
-    print(f"🪵 로그 파일 → {log_file}")
+    print(f" trigger_deliber 처리 완료 → {output_file}")
+    print(f" 로그 파일 → {log_file}")
 
 
 if __name__ == "__main__":
